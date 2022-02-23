@@ -1,0 +1,1167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An English herbal, or, A discovery of the physical vertues of all herbs in this kingdom what planet governs each herb, and how to gather them in their planetary hours : containing some hundreds of medicines made of English herbs, whereby any person may keep his body in health, or cure himself when sick, for a small charge, with such herbs and roots as naturally grow in England : collected for a general good.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38455</idno>
+            <idno type="STC">Wing E3088</idno>
+            <idno type="STC">ESTC R8390</idno>
+            <idno type="EEBO-CITATION">12273058</idno>
+            <idno type="OCLC">ocm 12273058</idno>
+            <idno type="VID">58366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 142:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An English herbal, or, A discovery of the physical vertues of all herbs in this kingdom what planet governs each herb, and how to gather them in their planetary hours : containing some hundreds of medicines made of English herbs, whereby any person may keep his body in health, or cure himself when sick, for a small charge, with such herbs and roots as naturally grow in England : collected for a general good.</title>
+               </titleStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by A.C. at the Ring in Little-Britain,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Herbs --  Therapeutic use --  Early works to 1800.</term>
+               <term>Medicinal plants --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58366:1" rendition="simple:additions"/>
+            <pb facs="tcp:58366:1" rendition="simple:additions"/>
+            <p>AN <hi>Engliſh Herbal:</hi> OR, A Diſcovery of the Phyſical Ver<g ref="char:EOLhyphen"/>tues of all Herbs in this Kingdom, what Planet governs each Herb, and how to gather them in their Planeta<g ref="char:EOLhyphen"/>ry Hours.</p>
+            <p>CONTAINING <hi>Some Hundreds of Medicines</hi> Made of ENGLISH HERBS, Whereby any Perſon may keep his Body in health, or cure himſelf when ſick, for a ſmall Charge, with ſuch Herbs and Roots as naturally grow in <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>Collected for a General Good.</hi>
+            </p>
+            <p>Sold by <hi>A. C.</hi> at the <hi>Ring</hi> in <hi>Little-Britain.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58366:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>YOU have herein an Account of the <hi>Herbs</hi> growing in <hi>England,</hi> and the Planet that rules 'em, that you may know how to gather 'em in their prime. The Planets are the <hi>Sun ☉ Sunday,</hi> the <hi>Moon <g ref="char:Moon">☽</g> Mon<g ref="char:EOLhyphen"/>day, Mars ♂ Tueſday, Mercury ☿ Wedneſday, Jupiter ♃ Thurſday, Venus ♀ Friday, Saturn ♄ Saturday.</hi> Obſerve that every Planet governs the firſt Hour after Sun-riſe upon his Day, and the next Planet to him takes the next Hour ſucceſſively in his order; ſo be it any Day, every 7th Hour comes to each Planet ſucceſſively; for inſtance, If the Day be <hi>Friday,</hi> then the firſt Hour after Sun-riſe is <hi>Venus</hi>'s, the next <hi>Sa<g ref="char:EOLhyphen"/>turn</hi>'s, and ſo on till it comes to <hi>Venus</hi> again. If you gather Herbs in their planetary Hour, ſome ſay you may do great matters, otherwiſe not; but be ſure in gathe<g ref="char:EOLhyphen"/>ring your Herbs you gather the moſt juicy, ſo dry 'em in the Sun, which ſome ſay is much better than Shade, and keep 'em in Paper Bags.</p>
+            <p>Mr. <hi>Cole</hi> lays no ſtreſs on Planetary Hours further than that the Sun and Moon have influence over 'em, the firſt fer Heat, t'other for Moiſture, but that the <hi>Full Moon</hi> is a good time to gather Herbs whence the Juice is to be taken. Thoſe you gather for Winter Uſe, do it before they run to Seed. <hi>Flowers</hi> gather in their prime; dry and lay up <hi>Seeds</hi> full ripe; <hi>Roots</hi> keep near the Fire, or they will rot: <hi>Barks</hi> newly gather'd are beſt. Other Authors ſay 'tis beſt to gather <hi>Herbs</hi> when they are full of Juice, on a clear Day, when the Dew is gone off 'em. <hi>Flowers</hi> gather when full blown, <hi>Seeds</hi> when they begin to dry, <hi>Fruit</hi> quite ripe, <hi>Roots</hi> before they begin to ſpring, and dry 'em care<g ref="char:EOLhyphen"/>fully either in Sun or Shade, it matters not.</p>
+            <p>
+               <hi>NB.</hi> Our Engliſh Herbs make as wholſom <hi>Tea's</hi> as foreign, ſweeten'd with Sugar or Syrup; and you may make 'em with Syrups or Berries of what Colour and Taſte you pleaſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:58366:2"/>
+            <head>
+               <hi>Notable Things;</hi> AN Engliſh HERBAL.</head>
+            <div n="A" type="part">
+               <p>
+                  <hi>ALehoof, Ground-Ivy, Gill,</hi> or <hi>Coltsfoot,</hi> grows in Hedges and in ſhaded Lanes; 'tis an Herb of <hi>Venus,</hi> and cures the Diſeaſes ſhe cauſes by Sim<g ref="char:EOLhyphen"/>pathy, and the Diſeaſes of <hi>Mars</hi> by Antipathy. Sodden in Swines-greaſe, it's a good Ointment for all Aches; 'tis excellent in Tea: It's alſo good for all inward Bruiſes, Wounds, Ulcers, <hi>&amp;c.</hi> boil'd either by itſelf or other Wound-herbs; it eaſeth all griping Pains or Wind in Spleen, Stomach, or Sides; it cures the Jaundice, expels Venom, Poyſon, and Plague: 'Tis good againſt the Gout, and provokes Urine: Being put in Ale, it clears it in a Night's time, and cleanſes the Blood. The Juice drop'd into the Ears, helps Noiſe and Deafneſs.</p>
+               <p>
+                  <hi>Agrimony,</hi> an Herb of <hi>Jupiter,</hi> grows on Banks by Hedges or other Fences. It is moderately dry and binding, temperate as to heat, cleanſes the Liver and Lungs, helps the Jaundice, and is profitable for the Bowels, healing inward Bruiſes, Wounds, and Putri<g ref="char:EOLhyphen"/>factions. Boil'd in Wine and drank, 'tis good for bi<g ref="char:EOLhyphen"/>ting of mad Dogs, ſtinging of Serpents, <hi>&amp;c.</hi> It cures and clears filthy muddy Urine, helps Coughs, ſtops a Bloody-flux; made into a Salve, it cures Cancers,
+<pb n="4" facs="tcp:58366:3"/>old Sores and corroding Ulcers; draws forth Splinters, Thorns, and Iron got into the Fleſh: It ſtrengthens disjointed Limbs. The Juice dropt into the Ears, is good againſt Impoſthumes; a Tea made of it, is good for ſore Throats: It's a great Strengthner of the Li<g ref="char:EOLhyphen"/>ver and whole Body, purifying the Blood, uſed either in Ointment, Decoction, Diet-drink, or as you pleaſe. There's alſo a Water-Agrimony has the ſame Vertue. Being burnt, the Smoak drives away Gnats, Waſps, Flies, and other Inſects. A Draught of the Tea is good againſt Agues, taken before the Fit comes.</p>
+               <p>
+                  <hi>Acorns,</hi> ſee <hi>Oak.</hi>
+               </p>
+               <p>
+                  <hi>Adders-tongue</hi> grows in Meadows and moiſt places, and is govern'd by the Moon in <hi>Cancer,</hi> but dry in the third degree: 'Tis good for green Wounds whe<g ref="char:EOLhyphen"/>ther drank by Decoction or boil'd in Oil. It makes an excellent green Balſam, like that of <hi>St. Johns-wort.</hi>
+               </p>
+               <p>
+                  <hi>Alkanet,</hi> an Herb of <hi>Venus,</hi> is good for old Ulcers, Inflamations, <hi>St. Anthony's Fire,</hi> &amp;c. If you make a Vinegar of it, as you do of Roſes, it cures Leproſie and Morphew: Apply it to the Womb, it drives out the dead Child; it helps Bruiſes, is excellent to bring out the Small-pox and Meaſles; it's alſo good in green Wounds; a Decoction with <hi>Hydromel</hi> drank, helps the yellow Jaundice.</p>
+               <p>
+                  <hi>Ague-tree</hi> (Saſafras-wood) a Decoction in Water drank, helps a Dropſy, cures Agues, expels Wind, creates an Appetite, helps the French Diſeaſe; being laid in a Bed, it drives away Bugs: It ſweetens the Breath, and helps Coughs, Colds, <hi>&amp;c.</hi> It grows in the <hi>Weſt-Indies.</hi>
+               </p>
+               <p>
+                  <hi>Allheal</hi> grows in Gardens; 'tis an Herb of <hi>Mars,</hi> being cholerick, hot, and biting. It helps the Gout, Cramp, Convulſions, kills Worms, provokes Urine, and helps all Joint-aches; 'tis good to cure Griefs of the Head, Lethargy, Falling-ſickneſs, Vertigo, Wind-Cholick, Obſtructions of the Spleen, Liver, and Stone in Kidnies or Bladder: It provokes the Terms, and purgeth gently.</p>
+               <pb n="5" facs="tcp:58366:3"/>
+               <p>
+                  <hi>Amara Dulcis</hi> grows moſtly in ſhady and moiſt pla<g ref="char:EOLhyphen"/>ces: It removes Witchcraft from Man and Beaſt, by wearing it about the Neck; apply the Berries brui<g ref="char:EOLhyphen"/>ſed to Felons, ſtamp'd with ruſty Bacon, cures 'em. It is under <hi>Mercury.</hi> If both Wood and Leaves be boil'd together in Whitewine, and drank in a Morn<g ref="char:EOLhyphen"/>ing, opens Obſtructions, helping Dropſy and Jaundice.</p>
+               <p>
+                  <hi>Aloes</hi> mixt with Roſewater, and anointing, kills Crab<g ref="char:EOLhyphen"/>lice; 'tis purgative, and one chief Ingredient in Pills; one or two Pills of waſht Aloes may be us'd by ſuch as are coſtive, dimn-ſighted, heavy-hearted, or otherwiſe indiſpos'd. <hi>Roſeate Aloe-Pills</hi> are gentle Purgers, ve<g ref="char:EOLhyphen"/>ry good againſt yellow Jaundice. There are 4 ſorts, diſtinguiſh'd by their purity or fineneſs; <hi>Aloes Caba<g ref="char:EOLhyphen"/>lina</hi> is the blackeſt, <hi>Aloes Hepatica</hi> are Liver-colour'd and finer, <hi>Aloes Cicatrina</hi> are of a Citron-colour, or from the Tree <hi>Cicatoria; Aloes Lucida</hi> are the brigh<g ref="char:EOLhyphen"/>teſt and beſt, purging gently.</p>
+               <p>
+                  <hi>The</hi> Scotch Pill <hi>(I ſuppoſe) is thus made:</hi>
+               </p>
+               <p>Make a ſtrong Decoction, a handful of Rue in a pint of Water, in which diſſolve a pound of <hi>Aloes;</hi> when well diſſolv'd, pour off all the liquid, leaving the gummy Sediment behind; then evaporate over a gentle Fire, in a clean Pipkin, the watery conſiſtence till it comes to the thickneſs of a Syrup; mix in this an ounce of Myrrh finely pouder'd, and a dram of Saffron (or two) in pouder, holding the Saffron be<g ref="char:EOLhyphen"/>fore the Fire a little: As it cools make it into ſmall Pills with Pouder of Liquorice, and take 1, 2, or 3 at any time, an hour after Dinner or at Night.</p>
+               <p>
+                  <hi>Alexanders</hi> grow uſually in Gardens; 'tis an Herb of <hi>Jupiter,</hi> therefore healthy and friendly to thoſe that uſe it; hot in the 3d degree. It opens Obſtru<g ref="char:EOLhyphen"/>ctions of the Liver and Spleen, provokes the Courſes, brings away the After-birth, provokes Urine, helps Strangury, is good againſt Poyſon and biting of Ser<g ref="char:EOLhyphen"/>pents, and excellent in Broth for cold Stomachs.</p>
+               <p>
+                  <hi>Ald<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r-tree</hi> grows an moiſt Counties and Places; 'tis a Buſh of <hi>Venus,</hi> and under <hi>Cancer.</hi> The Bark, Buds,
+<pb n="6" facs="tcp:58366:4"/>Leaf, and Flowers are cooling, drying, and binding, eaſing Pain, excellent for all Inflamations, Scaldings, Burnings, and Swellings, either in Ointmrnt or Pul<g ref="char:EOLhyphen"/>tice. If the Leaves are laid to gaul'd Feet in walk<g ref="char:EOLhyphen"/>ing, they are very refreſhing: They gather all the Fleas in your Room together, if a handful freſh is laid there, ſo throw 'em ſuddenly away.</p>
+               <p>
+                  <hi>Anemonys</hi> grow in Gardens, and are under the do<g ref="char:EOLhyphen"/>minion of <hi>Mars.</hi> They cure Leproſie by bathing it with a Decoction of the Leaves, and provoke the Terms much: The Root chew'd brings away many watery Humors; it's good in an Ointment againſt malignant Ulcers; likewiſe againſt Lethargy, the Juice ſnuffed up, mightily purges the Head.</p>
+               <p>
+                  <hi>Amaranthus,</hi> it's under <hi>Saturn,</hi> and grows in Gar<g ref="char:EOLhyphen"/>dens. The Flowers dry'd and pouder'd, ſtop the Terms, if drank in Wine and Honey boil'd together; it mightily cures luſtful Paſſion. The Herb boil'd in Wine, and the Fundament fomented, helps the Piles and ſtops their bleeding. The dry'd Herb laid among Cloaths prevents Worms and Moths. The Seed is an excellent Bait for Fiſh.</p>
+               <p>
+                  <hi>Arach,</hi> it grows on Dunghils. This ſtinking Herb is govern'd by the Moon, and is a ſure Remedy in Fits of the Mother, being ſmelt to; 'tis cold in the firſt, and moiſt in the ſecond degree; it looſens the Belly, and vomits alſo; a Decoction drank cools St. Anthony's Fire, and is good for Matrix Infirmities.</p>
+               <p>
+                  <hi>Angelica</hi> grows in Gardens, 'tis govern'd by the Sun in <hi>Leo,</hi> and beſt if gather'd in <hi>Auguſt,</hi> when the Moon is in a good Aſpect in his Houſe, and when the Sun is angular: This the Aſtrologers ſay, and farther, That both this, and all other Herbs, if rightly ob<g ref="char:EOLhyphen"/>ſerv'd, will perform Wonders. It reſiſts Poyſon and all Infection, corroborating the Heart, Blood, and Spirits, whether in Water diſtil'd, Decoction, or the Stalks candy'd: It moves the Terms, brings away the After-birth, helps Fluxes, and is a Cordial Herb.</p>
+               <p>
+                  <hi>Archangel</hi> or <hi>Dead-Nettle,</hi> the red and white grow
+<pb n="7" facs="tcp:58366:4"/>in moſt places: 'Tis an Herb of <hi>Venus,</hi> hot and dry in the 2d degree, and good againſt all Obſtructions of the Spleen decocted in Wine: Apply alſo the Herb outwardly, the Flowers of the white ſtop the Whites in Women, and thoſe of the red the other. It makes the Heart cheerful, removes Melancholy, cures Agues, ſtops bleeding, diſſolves hard Tumors and Swellings, even the King's Evil, and eaſeth Gout-pains. Bruis'd with ſome Vinegar and Salt, and mix'd with Hogs<g ref="char:EOLhyphen"/>greaſe, it's good againſt Bruiſes, Ulcers, Burns, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Arſmart</hi> grows chiefly in watery places that are dry in Summer; one ſort is mild, the other biting; the mild is under <hi>Saturn,</hi> the hot is govern'd by <hi>Mars.</hi> It conſumes cold Swellings, is very good againſt Ul<g ref="char:EOLhyphen"/>cers and congeal'd Blood in Man or Beaſt; being held to it, it cures the Tooth-ach. The hot ſort ſtrew'd in your Chamber, kills Fleas; the Juice of the cold put to any Cattles Sores, will drive away Flies; hot <hi>Arſmart</hi> put under a Horſe's Saddle, makes him tra<g ref="char:EOLhyphen"/>vel the better.</p>
+               <p>
+                  <hi>Aſarabacca</hi> grows in Gardens, and is under <hi>Mars,</hi> no Friend to Nature, being hot and dry in the 3d degree: Boil'd or infus'd in hot Wine all Night, it works by Urine, Stool, Vomit, <hi>&amp;c.</hi> purges Choler and Phlegm, is good againſt the Dropſy, and forces down the Terms: 'Tis better infus'd than boil'd. The Roots have the ſame Vertues, but not ſafe for weak Bodies. The Decoction is good to bath the Head, ſtrengthen the Memory, and comfort the Brain when 'tis afflicted with Cold. Beware how you uſe this.</p>
+               <p>
+                  <hi>Aſparagus</hi> grows chiefly in Gardens, and is under <hi>Jupiter;</hi> 'tis friendly to Man, and hot and moiſt by Nature. The young Branches boil'd in freſh Broth, make the Belly ſoluble; boil'd in Whitewine, they purge by Urine, curing the Strangury: Decocted, it clears the Sight; held in the Mouth, it cures the Tooth-ach; it ſtirs up Venery. A Bath made of it, takes away Pain from any part of the Body; and the young Tops boil'd in Milk taſtes like Peaſe-pottage.</p>
+               <pb n="8" facs="tcp:58366:5"/>
+               <p>
+                  <hi>Aſh-tree</hi> is govern'd by the Sun, the Leafs, Keys, Tops and Bark are very hot, biting, and opening, a certain Cure for the Dropſy and ſtoppage of Urine in the Reins or Bladder: Decocted in Whitewine and drank, it cures the Jaundice, Leproſie, Scabs, or Scald, if therewith they are bath'd.</p>
+               <p>
+                  <hi>Avens</hi> is under <hi>Jupiter,</hi> hot in the 2d degree: It is very good for Stoppings of the Breaſt or Stomach, Pains or Stitches in the Side or Pleuretick Parts; it diſſolves bruis'd or congeal'd Blood, and helps Blood<g ref="char:EOLhyphen"/>ſpitting; it ſtrengthens the Brain and Stomach. The Decoction drank, cureth Burſtenneſs and Ruptures; it prevents Infection, helps Digeſtion, opens Obſtru<g ref="char:EOLhyphen"/>ctions of Spleen and Liver.</p>
+            </div>
+            <div n="B" type="part">
+               <head>B</head>
+               <p>
+                  <hi>Balm</hi> makes good Pottage of excellent Nutriment, grows in Gardens, and is under the government of <hi>Jupiter</hi> and <hi>Cancer,</hi> hot and dry; 'tis ſo friendly and flagrant that it ſtrengthens Nature in all its Facul<g ref="char:EOLhyphen"/>ties. Take the Decoction in Wine or Syrup, or the Water diſtil'd is an excellent Cordial, it cheers the Heart and Spirits, comforts the Brain, drives away Care and Melancholy, cures the Tooth-ach, the Bloody-flux, Vapours ariſing from Spleen; and for all cold Stomachs 'tis an excellent Remedy. <hi>Sage</hi> and <hi>Balm</hi> makes a good Tea, ſo does Balm and Sweet Marjoram, or Sage and Mint: Elderberries boil'd with Tea, or Syrup of Elder, or Brambleberries, or Rasberries, colours Tea, and is very wholſom.</p>
+               <p>
+                  <hi>Barberries</hi> grows in Gardens, is a Shrub under <hi>Mars,</hi> and purges by Urine much, freeing the Body of Choler and yellow Jaundice. If you boil the in<g ref="char:EOLhyphen"/>ner Bark in Sherry, and drink every Morning a quar<g ref="char:EOLhyphen"/>ter of a Pint, it's very good againſt Agues, all chole<g ref="char:EOLhyphen"/>rick Effects, Tettars, Ringworms, Itch, <hi>&amp;c.</hi> The Berries, conſerv'd or otherwiſe, alays Thirſt, is good in Fevers, creates an Appetite, and ſtrengthens the attractive Faculty. The Leaves taſte like Sorrel; it's good (either Syrup or Berries) in Sage Tea.</p>
+               <pb n="9" facs="tcp:58366:5"/>
+               <p>
+                  <hi>Barley</hi> grows in Fields, and is govern'd by <hi>Saturn.</hi> It is not good for Melancholly People, being more cooling than <hi>Wheat,</hi> but is more cleanſing. <hi>Barley</hi>-Water is good in Fevers, and for hot Stomachs, for Agues, and for coſtive People: It is excellent in Poultices, if you boil it with ſome Vinegar. <hi>Barley</hi>-Flour, ſome Figs maſh'd, and a little Honey added, made into a Poultice, diſſolves hard Impoſthumes, Swellings, and Inflamations, apply'd hot; it is alſo proper to add Camomile Flowers, if there be I ain, with Fenugreek-ſeed and Linſeed powder'd, which will take away Pains and Swellings from any part of the Body. When it is malted, it is then hot and nouriſhing, as you find by the good Liquor drawn from it in brewing.</p>
+               <p>
+                  <hi>Baſile</hi> groweth in Gardens, and is under the Government of <hi>Mars.</hi> It is hot and moiſt, and very tender; it is reckon'd dangerous to be taken in<g ref="char:EOLhyphen"/>wardly. <hi>Mizaldus</hi> ſays, that often ſmelling to it breeds a Serpent in the Head; there is an Antipathy betwixt it and Rue: It is of a hot and fiery quality, and if it is rotted in Horſe-dung, it will breed Ser<g ref="char:EOLhyphen"/>pents. It is ſovereign againſt the biting of any ve<g ref="char:EOLhyphen"/>nomous Beaſt, or Serpent's Sting, by drawing the Poiſon out. Dr. <hi>Peachey</hi> ſays, 'tis an Ingredient of three compound Waters, <hi>viz.</hi> Gilbert-water, Briony-water, and Celeſtial-water.</p>
+               <p>
+                  <hi>Bay-tree</hi> grows in Gardens, is under the <hi>Sun,</hi> and the Coeleſtial Sign <hi>Leo.</hi> It is hot and dry in the third degree; it is wonderful in Vertue, and very refreſhing in its fragrant Smell: The Leaves of it powerfully reſiſt Drunkenneſs, and all evil effects of the Brain, as Vertigo's, Swimmings, all windings of the Stomach, and is good againſt Gripes and Cholick, and kills Worms. Either the Berries, Leaves, or Bark, are very ſure and effectual good to prevent In<g ref="char:EOLhyphen"/>fections, and reſiſts Peſtilence or Plague, alſo all evil Influences and Witchcraft. It cures Numbneſs, Con<g ref="char:EOLhyphen"/>vulſions, Cramps, Palſies, and Lameneſs, made into
+<pb n="10" facs="tcp:58366:6"/>Ointments, Oyls, or Baths, <hi>&amp;c.</hi> laid among Cloaths preſerves them from Moths, and gives a wholſome Smell.</p>
+               <p>
+                  <hi>Beans</hi> grow in Gardens and Fields, and are under <hi>Venus.</hi> They are Cold, Dry, very Windy and Bind<g ref="char:EOLhyphen"/>ing: The Flowers and Pods diſtill'd, yield a Sove<g ref="char:EOLhyphen"/>reign Water to ſmooth and beautify the Face from Spots, Wrinkles, and other Deformities. Field Beans are excellent in Poultices, to aſſwage Swellings, In<g ref="char:EOLhyphen"/>flamations of Womens Breaſts, or about Wounds; for any part ſwell'd, make a Poultice of Bean-flour with Wine and Vinegar, and Oyl of Camomile; 'tis good for the Cods ſwollen, Bruiſes, Pains, or Wounds of the Sinews, Sciatica, or Gout. Beans often eat, cau<g ref="char:EOLhyphen"/>ſeth Noiſes troubleſome to the Brain: Bean-flour and Fenugreek, mix'd with Honey, cures Fellons, Bruiſes, Boyls, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Beans, French,</hi> grows in Gardens, and belongs to Dame <hi>Venus.</hi> Being dried and beaten to Powder, a dram drank in Whitewine, ſtrengthens the Kidneys, prevents the Stone, looſens the Belly, provokes U<g ref="char:EOLhyphen"/>rine, and encreaſes Seed and Luſt. They are good to eat when boil'd.</p>
+               <p>
+                  <hi>Beets,</hi> White and Red; the White is govern'd by <hi>Jupiter,</hi> the Red by <hi>Saturn.</hi> The Red Beet boil'd and eaten with Butter and Vinegar, is a pleaſant Food, helps Digeſtion, and is opening; pickled, they are cooling Sauce. The White Beet doth more loo<g ref="char:EOLhyphen"/>ſen the Belly, and provoke Urine; the Juice of the Leaves opens Obſtructions of the Liver and Spleen, helps Burnings and Swimmings of the Head: The boil'd Herb is good to lay upon Chilblains, Bliſters, Cankers, Blains, and prevents Hair falling off, and Baldneſs. Red Beets ſtops the Bloody-flux, Womens Courſes, and cures the yellow Jaundice; the Juice put into the Noſtrils, purges the Head, and cures the Tooth-ach.</p>
+               <p>
+                  <hi>Ladies Bedſtraw</hi> grows in Meadows and Paſtures, is an Herb of <hi>Venus,</hi> being in Nature hot and dry:
+<pb n="11" facs="tcp:58366:6"/>It is very powerful upon the Parts of Generation, to ſtrengthen them. A Decoction of the Flower or Herb, drank, diſſolves the Stone, provokes Urine, ſtoppeth Bleeding inwardly, and healeth Wounds inwardly; being made into an Ointment, it heals Scalds and Burns: The Decoction or Ointment is good to bathe or anoint ſwell'd ſore Feet of Travellers; the Oint<g ref="char:EOLhyphen"/>ment cures the Itch, is good for the Joints, Sinews, and Arteries, and cures Pains and Colds.</p>
+               <p>
+                  <hi>Blackberry-buſh,</hi> or <hi>Bramble-buſh,</hi> belongs to <hi>Venus,</hi> and grows in Fields: The Fruit is good againſt Ul<g ref="char:EOLhyphen"/>cers, ſore Mouth and Throat, Quinzy, <hi>&amp;c.</hi> it heals Wounds, if waſh'd with the Decoction; 'tis often us'd in Mouth-water, made with other Herbs, a little Vinegar, Honey, and Allom added. The Berries are good for Fluxes, Lasks, Sores, Spitting of Blood, and helps all Sores of the Privities or Fundament; if you waſh with a Decoction, the Berries are, for a ſore Throat, near as good as Mulberries.</p>
+               <p>
+                  <hi>One-Blade</hi> grows in Woods, ſhady and moiſt Pla<g ref="char:EOLhyphen"/>ces, and is under the <hi>Sun.</hi> The Powder of the Root, or the Root boil'd in Wine, or made into Tea, is very Cordial; if given in Wine, and ſweat upon, it is good againſt the Pox or Plague. It is a good Wound-herb, old or new.</p>
+               <p>
+                  <hi>Blites</hi> grow in Gardens, and other Places; there are ſeveral ſorts: They are under Dame <hi>Venus,</hi> and are of a cold and dry quality, greatly binding in Lasks and Fluxes. Red <hi>Blites</hi> ſtop Womens Terms: The White ſtops the Whites; and remember this, that all Red Flowers are good to ſtay the too great Fluxes, or Womens Terms.</p>
+               <p>
+                  <hi>Blewhottle</hi> grows in Corn-fields, by Nature cold, dry, and binding, and are govern'd by <hi>Saturn.</hi> They are ſucceſsfully given in Powder in Plantane-water, or Comfry-water, for Bruiſes by a Fall, or ſpitting of Blood; if taken in Wine, 'tis good againſt Poiſon, ſtings of Serpents, bad Air, Plague or Peſtilential Fe<g ref="char:EOLhyphen"/>vers. Green Wounds are ſpeedily cur'd by its Juice;
+<pb n="12" facs="tcp:58366:7"/>alſo Ulcers, fore Eyes, Impoſthumes in the Ears, or ſore Mouth.</p>
+               <p>
+                  <hi>Borage, Bugloſs, Langue de Beuf,</hi> they grow in Gardens and High-ways, and are much of the ſame Nature. All three are under <hi>Jupiter,</hi> by Nature they are hot and moiſt: They ſtrengthen Nature againſt Peſtilent Fevers, reſiſt Poiſon, and are very Cordial. The Seed and Leaves boil'd in Poſſet-drink, encreaſe Milk in Womens Breaſts, is good againſt Melanchol<g ref="char:EOLhyphen"/>ly, and purifies the Blood; 'tis alſo good againſt Fe<g ref="char:EOLhyphen"/>vers, as has been often experienc'd. Borage, or Bo<g ref="char:EOLhyphen"/>rage and Sage makes good Tea, and with Syrups and Berries you may colours Teas.</p>
+               <p>
+                  <hi>Brank Urſine</hi> grows in Gardens, and is govern'd by the <hi>Moon:</hi> Boil'd and given in a Glyſter, it loo<g ref="char:EOLhyphen"/>ſens the Belly; the Decoction drank, is good againſt a Flux of the Blood; apply'd to the Kings-evil it is good, and a ſpeedy Remedy againſt Ruptures, and Burnings inwardly or outwardly applied; it helps the Gout, Cramp, and Conſumption.</p>
+               <p>
+                  <hi>Briony</hi> grows on Banks, and under Hedges; it is under <hi>Mars,</hi> hot and dry by Nature; great Care is to be taken in uſing it, but if well corrected, it power<g ref="char:EOLhyphen"/>fully purges Phlegm and watery Humors, is good in Dropſys, provokes Urine, opens Obſtructions of the Liver and Spleen, cleanſes the Reins, prevents Suffo<g ref="char:EOLhyphen"/>cation or Fits, cleanſeth the Womb, expels the dead Child and Afterbirth, and bringeth down the Cour<g ref="char:EOLhyphen"/>ſes: 'Tis likewiſe good for Shortneſs of Breath and Coughs. If an Electuary be made of the Roots with Honey, firſt being bruis'd, and apply'd, 'twill draw forth ſplinter'd Bones.</p>
+               <p>
+                  <hi>Brooklime</hi> grows in ſhallow watery places, and is hot and dry; 'tis govern'd by <hi>Mars.</hi> The common Uſe of it is in Spring Pottage and Diet-drinks, to cleanſe the Blood anp tout the Scurvy: 'Tis likewiſe good againſt the Stone, cures Inflamations, and moves the Terms.</p>
+               <pb n="13" facs="tcp:58366:7"/>
+               <p>
+                  <hi>Broom</hi> grows in Fields and on Heaths, is govern'd by <hi>Mars,</hi> hot and dry in the third degree; 'tis very bitter: If boil'd in Wine, and drank, 'tis a ſure Re<g ref="char:EOLhyphen"/>medy for the Dropſie, Gout, and Jaundice. It clean<g ref="char:EOLhyphen"/>ſeth the Reins, Spleen, and Bladder of Gravel and Stone, and prevents its generating. The young Tops made into an Ointment with Hogs-greaſe, cures Sc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>tica and other Pains; decocted or boil'd, it cures the black Jaundice, Ague-fits, Tooth-ach, Stitches, Wind, and kills Lice.</p>
+               <p>
+                  <hi>Buckthorn (Plantane)</hi> grows in ſandy and many o<g ref="char:EOLhyphen"/>ther Places, is an Herb of <hi>Saturn,</hi> being cold, dry, and very binding. 'Tis excellent againſt the biting of mad Dogs or Serpents, if apply'd to the Place bitten. The Roots boil'd in Whitewine, opens Ob<g ref="char:EOLhyphen"/>ſtructions, provokes Venery, expels Gravel, ſtops the Noſe bleeding, Lask of the Belly, and Bloody-flux. The Herb boil'd in Poſſet-drink, cures the Defluxion of hot Humours in the Eyes, and all ſore Eyes.</p>
+               <p>
+                  <hi>Betony (Water)</hi> grows in Ditches and on Banks, is under <hi>Jupiter</hi> in <hi>Cancer,</hi> hot and dry in the ſe<g ref="char:EOLhyphen"/>cond degree; for Wounds 'tis a good Herb, and may be very effectual for old Ulcers, Bruiſes, and Wounds, the Juice boil'd in Honey, wet your Tents and Lint therewith, and apply it. The Water diſtill'd is good for Sun-burnt Hands or Face.</p>
+               <p>
+                  <hi>Betony (Wood)</hi> grows in Woods and ſhady Places, this is alſo under <hi>Jupiter.</hi> This, as the Elder, hath ſo many Vertues, that a Book hath been written on them. It fortifies the Heart and Liver, prevents E<g ref="char:EOLhyphen"/>pidemical Diſeaſes, helps Digeſtion, encreaſes Appe<g ref="char:EOLhyphen"/>tite, cures the Falling-ſickneſs, Jaundice, Palſie, and Witchcraft. If you take the Root, Flowers, or Herb in Broth or Decoction, Conſerve or Syrup, Electuary or Powder, all work the ſame Cure: It cures the Dropſy, Scurvy, Gout, Frenzy, ſhort Breath, Worms, Stone, Obſtructions, Tooth-ach, biting of venomous Beaſts, Boyls, Fiſtula's, Diſtempers in the Bladder or
+<pb n="14" facs="tcp:58366:8"/>Reins, helps Women in Travail; the Fume of the Decoction taken in at the Ears, eaſes them.</p>
+               <p>
+                  <hi>Beech-tree</hi> grows among Oaks, is under <hi>Saturn,</hi> and is cold, dry, and binding. Beech-tree-leaves are good apply'd to hot Swellings to diſperſe them, and there is often found in Old Beeches, a Water that cools hot Swellings, and diſperſes them, and cures Tettars, Itch, Scabs and Scurfs in Men or Beaſts, waſh'd with it. The Nuts or Maſts are nouriſhing to Beaſts that eat it, and an Oyl is now made of the Maſt to eat with Sallads, little inferior to <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>d-Oyl.</p>
+               <p>
+                  <hi>Bilberries</hi> grow on Heaths, there are two <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Black and Red; they are under <hi>Jupiter:</hi> The B<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k are good in Feveriſh Agues, they cool the Stomach, Blood, and Liver, and are a little binding; they ſtrengthen the Stomach, ſtay Vomiting and Loath<g ref="char:EOLhyphen"/>ing; the Red are moſt binding: They ſtop Fluxes and the Terms; their Juice, made into a Syrup, is good againſt the Diſeaſes before-mention'd; 'tis alſo good againſt ſpitting of Blood, old Coughs, Agues, or Ulcers in the Lungs. They make a pleaſant and wholſome Tea with Sage.</p>
+               <p>
+                  <hi>Boifoyl,</hi> or <hi>Twayblade,</hi> is found in Copſes and Woods; another ſort of it grows in wet Grounds and Marſhes: 'Tis govern'd by <hi>Saturn,</hi> and is dry and cold. In all Wounds 'tis very binding and con<g ref="char:EOLhyphen"/>ſolidating, for Ruptures 'tis admirable both outward<g ref="char:EOLhyphen"/>ly and inwardly apply'd.</p>
+               <p>
+                  <hi>Birch-tree</hi> grows in Woods, is under <hi>Venus,</hi> and by Nature hot and dry. If you drink the d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtill'd Water of the Leaves, or the Water that comes out of the Tree when 'tis pierc'd, it breaks the Stone in the Reins and Bladder: If the Water is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtill'd, it ſerves for a Waſh that beautifies the Face. 'Tis a good Water for a ſore Throat or Mouth; a Coal of the green Wood beaten to Powder, and apply'd, ſtops bleeding ſpeedily.</p>
+               <pb n="15" facs="tcp:58366:8"/>
+               <p>
+                  <hi>Birds-foot</hi> grows on Heaths and barren Ground, is under <hi>Saturn,</hi> and of a drying, binding, healing qua<g ref="char:EOLhyphen"/>lity: It helps a Rupture, outwardly or inwardly ap<g ref="char:EOLhyphen"/>plied; the Stone it alſo breaks.</p>
+               <p>
+                  <hi>Biſhops-weed</hi> grows wild in moſt Places, and is under <hi>Venus;</hi> this Herb is hot and dry in the third degree: 'Tis in taſte ſweet and bitter, and is very opening. 'Tis excellent in Conſumptions, expels Wind, provokes the Courſes, and breaks the Stone; taken in Wine, it hinders the poiſonous effects of any Poiſon; being decocted and drank, it cures a red Face, and makes it pale, if applied outwardly. It alſo takes away Bruiſes or Deformities of the Skin, making it pale and fair.</p>
+               <p>
+                  <hi>Biſtort (Snakeweed)</hi> grows in moiſt Woods, but moſtly in Gardens, there is two ſorts, 'tis under <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> cold and dry. This Herb is a great Antido<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e againſt Poiſon; the Root powder'd driveth out the Small-pox, Plague, Meaſles, or any Malignity: The Root decocted doth the ſame, and helps ſpitting of Blood, inward Bleedings, and all Fluxes in Women or Men; is good againſt Vomiting and Loathing, Ruptures, Bruiſes, or Burſten: It cures the Jaundice and eaſes Pains. The diſtill'd Water, or Decoction, is good to waſh the bites of mad Dogs, or other ve<g ref="char:EOLhyphen"/>nomous Beaſts; being drank, it cure<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Abortion. A dram of the Root taken in ſome of the Water, for ſome time, cures the running of the Reins; injected into the Womb, heals Ulcers; it ſtops Defluxions applied to any part.</p>
+               <p>
+                  <hi>Buckſhorn (Sanguinaria)</hi> grows in barren ſandy Ground; 'tis an Herb under <hi>Saturn,</hi> being one ſort of <hi>Plantane:</hi> Its Vertues are much the ſame, being cold, dry, and binding. It ſtops bleeding where-ever applied, and deſtroys Warts.</p>
+               <p>
+                  <hi>Bugle</hi> is a ſort of <hi>Comfry</hi> that grows in Woods, is govern'd by <hi>Venus,</hi> and temperately hot, 'tis a good Wound-herb, applied outwardly or inwardly: It cures Ulcers, Fiſtula's, and Gangrenes, by Ointment,
+<pb n="16" facs="tcp:58366:9"/>Decoction, Water, Powder, or Syrup. It cures the Night-mare, ſtrange Fears or Sights in the Night.</p>
+               <p>
+                  <hi>Burnet</hi> grows in Gardens, and alſo wild; 'tis an Herb of the <hi>Sun,</hi> an excellent Herb to keep the Bo<g ref="char:EOLhyphen"/>dy in Health, for as the <hi>Sun</hi> preſerves Life in all, ſo his Herbs are moſt cordial to all. Boil'd in Wine it preſerves the Brain and Heart from all Infection, Pe<g ref="char:EOLhyphen"/>ſtilence, nay, it enlivens the Spirits, tho' it be but put into a Glaſs and look'd on, it cures Melancholy; it cures a Dyſentery or ſux of the Blood, Diar<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>a, Vomiting or Loathing. 'Tis admirable in its Vertues uſed any way.</p>
+               <p>
+                  <hi>Butter-bur</hi> grows in moiſt Ground, Marſhes, and by the Water-ſide; 'tis under the <hi>Sun,</hi> hot and dry in the third degree. 'Tis moſt cordial to the Heart and Spirits, and very bitter; the Roots are good a<g ref="char:EOLhyphen"/>gainſt the Plague and Small-pox, when infected, ſweat<g ref="char:EOLhyphen"/>ing out the Malignant Matter, boil'd in Wine or Poſſet-drink. Alſo the Powder of it, drank in Wine, is good againſt Suffocation or want of Breath; it provokes Urine and the Courſes, and kills all ſorts of Worms in Old or Young. The Powder of the Root dries up all Sores that will not yield to other Medicines, and takes away Blemiſhes and Spots.</p>
+               <p>
+                  <hi>Burdock</hi> is a ſtinking <hi>Bur</hi> that grows by the ſides of Ditches any where; 'tis under <hi>Venus,</hi> and cold in the firſt degree. 'Tis ſo attracting that the Seed or Leaves draw the Matrix upward or downward; if you apply the Leaves to the top of the Head, it draws it upward, if to the ſoles of the Feet, it draws it downward; if you would ſtay it in its due place, bind a Leaf to the Navel: 'Tis good for old Sores and Ulcers. The Root is excellent for the Stone, Lask, or Conſumption, either preſerv'd or otherwiſe. The Seeds are uſed to break the Stone, and for other Uſes, as beforeſaid.</p>
+            </div>
+            <div n="C" type="part">
+               <head>C</head>
+               <p>
+                  <hi>Cabbages</hi> and <hi>Colworts</hi> grow in Gardens; they are Plants of the Moon, cold and dry, and if you eat 'em
+<pb n="17" facs="tcp:58366:9"/>with Vinegar you can ſcarce be drunk; thoſe that be drunk by eating it, may ſoon be ſober. They pre<g ref="char:EOLhyphen"/>vent Surfeits, taken before Meat. Colwor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s boil'd cureth ſwell'd Legs, Gout-pains, <hi>&amp;c.</hi> bath'd there<g ref="char:EOLhyphen"/>with: The Broth alſo helpeth the Bitings of Ser<g ref="char:EOLhyphen"/>pents, or if taken in Wine. They are but windy Victuals, and ſomewhat offenſive to the Eyes. The Sea-Colwort cleanſeth and digeſteth more than the common ſort; apply them to Sores or Inflamations, they cure 'em. A Decoction of Sea-Colworts opens and purges more ſtrongly than Garden-Colworts.</p>
+               <p>
+                  <hi>Camomile</hi> grows in Gardens, and is govern'd by the Sun; 'tis hot and dry in the 2d degree. 'Tis a great Cordial, giveth Eaſe and cauſeth Sweat if the Flowers and green Tea boil'd in Water or Wine and drank; it ſweats ſtrongly, eaſes Pain at the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omach, and cures Agues; it's good in Glyſters, Poultices, and Ointment; bathing with it is good againſt the Stone, and brings down the Courſes. In any ſort of Ague, boil a handful in a pint of Ale till half be conſum'd, then ſtrain and drink it before the Fit comes, and ſweat; do ſo three times, and it cures. Oil of Camo<g ref="char:EOLhyphen"/>mile put in a Vial, and ſome Worms put in kill'd, and bait your Hook with them, the Fiſh will bite eagerly. <hi>Lemery,</hi> p. 15.</p>
+               <p>
+                  <hi>Calamint,</hi> or <hi>Mountain-Mint,</hi> groweth on high Grounds, is an Herb of <hi>Mercury,</hi> hot in the third degree, dry in the ſecond. If the Brain is afflicted from a cold Cauſe, it's excellent good, for it ſtreng<g ref="char:EOLhyphen"/>thens the Memory, enlivens the Mind, and (a De<g ref="char:EOLhyphen"/>coction being drank) quickens the Senſes; it pro<g ref="char:EOLhyphen"/>vokes Urine and the Courſes, is good for ſhortneſs of Breath, Cholick, Convulſions, Cramps, and wonder<g ref="char:EOLhyphen"/>fully ſtays Vomiting, but hinders Conception; being boil'd in Wine, and drank, it opens Obſiructions of the Spleen and Liver, and cures a Leproſie.</p>
+               <p>
+                  <hi>Calthrop</hi>'s (Water) 'tis a Water-Herb, tho' ſeldom us'd; there's two ſorts, and they are under the go<g ref="char:EOLhyphen"/>vernment of the Moon, cold in the 2d degree. They
+<pb n="18" facs="tcp:58366:10"/>are good againſt the Stone, Gravel, Kings-Evil, all Inflamations and Swellings, reſiſt Poyſon of venomous Beaſts. It's uſed by Decoction, drank or in Poultice outwardly.</p>
+               <p>
+                  <hi>Campions</hi> (wild) grow by Hedge-ſides; there are many ſorts of it, and they're under <hi>Saturn,</hi> but of a cold quality. Taken in Decoctions, it ſtops Bleeding inwardly or outwardly apply'd, it reſiſts Poyſons, the Plague, breaks the Stone and Gravel, cures Fiſtula's, Cancers, Ulcers, Impoſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>humes, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Carduus Benedictus (Bleſſed Thiſtla)</hi> grows in Gar<g ref="char:EOLhyphen"/>dens, is under <hi>Mars</hi> and the Sign <hi>Aries;</hi> 'tis an ex<g ref="char:EOLhyphen"/>cellent Remedy for the Pleuriſie, Jaundice, Pains in the Side, purges the Blood, by drinking the Decocti<g ref="char:EOLhyphen"/>on or diſtill'd Water; it helps Tettars, red Faces, French Pox, Plague, Ringworms, <hi>&amp;c.</hi> by ſweating often with it; it provokes Urine, cures Agues, and ſtrengthens the Memory.</p>
+               <p>
+                  <hi>Carrots</hi> (wild) grow in Fields, and it's to be ob<g ref="char:EOLhyphen"/>ſerv'd that all wild Herbs are more effectual than Garden Herbs in Phyſick. <hi>Mercury</hi> governs this, and 'tis hot and openings. The Root eaten, or Decoction, breaks the Stone, provokes Urine, expels Wind, and the Courſes, is good againſt the Dropſy, boil'd in Whitewine, it helps Conception. The Seed is more phyſical than the Root.</p>
+               <p>
+                  <hi>Caraway</hi> uſually grows in Gardens, 'tis under <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the 3d degree; the Seed is hot, biting, expels Wind, provokes Urine and the Terms, helps Digeſtion, remedies the Cholick and a cold Stomach.</p>
+               <p>
+                  <hi>Celandine</hi> grows in Gardens, by Hedges and old Walls, is govern d by the <hi>Sun</hi> and <hi>Leo,</hi> hot. Made into an Ointment, 'tis excellent for fore Eyes: The Herb decocted, or otherw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe taken-inwardly, cures the Jaundice, Ob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>truct ons of the Liver, Gall, Drop<g ref="char:EOLhyphen"/>ſy, Peſtilence, Tettars, Ulcers, Worms of all ſorts, Fits of the Mother, beautifies the Face. Gather it in its proper Hour, and it's effectual.</p>
+               <pb n="19" facs="tcp:58366:10"/>
+               <p>
+                  <hi>Celandine (Figwort)</hi> grows near the Water, or in Shades, is under <hi>Mars,</hi> and is hot and dry. 'Tis re<g ref="char:EOLhyphen"/>ported to be an effectual Remedy for the Kings-Evil or hard Swellings about the Throat, being made into a Poultice or Decoction of Herbs and Roots. Made into an Oil or Ointment, it cures the Piles or He<g ref="char:EOLhyphen"/>morrhoids; Or if the Root be wore next the Skin, it cures the above-mention'd Ailments, tho' it touch not the place.</p>
+               <p>
+                  <hi>Cellary,</hi> ſee <hi>Sallary.</hi>
+               </p>
+               <p>
+                  <hi>Centaury</hi> grows chiefly in Paſtures; all the ſorts are under the <hi>Sun,</hi> hot and dry in the 3d degree. This Herb decocted, purges the Blood, expels Wind and all cholerick and groſs Humors, is good in Gly<g ref="char:EOLhyphen"/>ſters: In Gruel it creates and Appetite, helps Sciatica, Gout, Dropſy, Green-ſickneſs, Spleen, it kills Worms, and helps Cholick-pains.</p>
+               <p>
+                  <hi>Charlock,</hi> the Seed of theſe wild Turneps are hot and dry, as Muſtard-ſeed, warming the Stomach.</p>
+               <p>
+                  <hi>Chervil</hi> grows in Gardens, is under <hi>Jupiter,</hi> hot and moiſt. A Decoction, or the Juice drank, diſſolves congeal'd Blood: Or the diſtil'd Water breaks the Stone, provokes Urine, expels Gravel, brings down the Courſes, helps the Pleuriſie, and (if candy'd) is good againſt Infection. In Pottage eat with Bread, Butter, and Salt, 'tis good Food, warms the Stomach, and preſerves the Lungs.</p>
+               <p>
+                  <hi>Chi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kweed (Mouſe-ear)</hi> grows in wet Ground and a<g ref="char:EOLhyphen"/>bout Hedges; it's under the Moon, cold and moiſt, very cooling to a hot Liver. Outwardly apply'd, it cures Swellings and Impoſthumes, Palſie, Scabs, Itch, red Face, red Eyes, Ulcers, Hemorrhoids, made into Ointment or Poultice, or by bathing.</p>
+               <p>
+                  <hi>Cherry-tree</hi> grows in Orchards, and is under <hi>Venus.</hi> Cherries-are all cooling, but the black are moſt medi<g ref="char:EOLhyphen"/>cinal, and in Convulſions moſt prevailing: They create a good Stomach; the Gum diſſolv'd in Wine is excellent to break the Stone, cure an old Cough and Hoarſneſs, clear the Sight, and cauſe a healthful Complexion.</p>
+               <pb n="20" facs="tcp:58366:11"/>
+               <p>
+                  <hi>Cherries</hi> (Winter-) grow in Gardens, are under <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi> and excellent in Phyſick; the Berries are hot and opening, ſo powerfully cauſe Urine, break the Stone, expel Gravel out of the Bladder and Reins, and help Blood-piſſing. The Berries may be dry'd and pouder'd, and drank with Whitewine and Sugar or warm Poſſet-drink. The Apothecaries mix them with other Ingredients for the ſame Diſtempers, and call it <hi>Troches Alkekingy.</hi>
+               </p>
+               <p>
+                  <hi>Cheſnut-tree</hi> is under <hi>Jupiter,</hi> hot in Nature; the Fruit is very nouriſhing, creates good Blood and Seed if eat moderately, but bind too much Lask or Diar<g ref="char:EOLhyphen"/>rhoea, the Dyſentery, as alſo the Courſes.</p>
+               <p>
+                  <hi>Chick-peaſe</hi> grow in Fields and Gardens, are under <hi>Venus,</hi> cold and dry: By a cleanſing quality they break the Stone in the Kidnies; they encreaſe Seed and Milk, provoke Urine and the Courſes. The wild ſort is reckon'd moſt powerful of the two.</p>
+               <p>
+                  <hi>Cinquefoil</hi> grows by He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge-ſides and ways, is un<g ref="char:EOLhyphen"/>der <hi>Jupiter,</hi> hot and mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. Give a ſcruple in White<g ref="char:EOLhyphen"/>wine, and it ſeldom miſſes of curing any Ague in three times taking it before the Fit. The Decoction cures Fevers, Cancers, Pe<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ence, ſore Throats, yel<g ref="char:EOLhyphen"/>low Jaundice, Quinzays, Gout, Scabs, Itch, Bleeding, Bruiſes, and Burſtenneſs. Boil the Root in Milk, it ſtops all Fluxes of the Belly, Reds or Whites.</p>
+               <p>
+                  <hi>Chives</hi> is a ſort of Leek that grows in Gardens; they are under <hi>Mars,</hi> hot in the 3d degree, dry in the 4th: They are bad for the Head, making Sleep uneaſie, and weaken the Sight; yet have this good Quality, they open the Breaſt and Stomach, freeing their ſtoppage, and provoke Urine if you drink ſome of the Juice in Whitewine hot.</p>
+               <p>
+                  <hi>Cl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry</hi> is a Garden-Herb, under the Moon, 'tis hot and dry; the Seed pouder'd and blown into the Eye, clears it from filth; a Decoction of it provokes Luſt and the Courſes; the Root pouder'd makes excellent Sn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff; the Leaves fry'd with Eggs helps Digeſtion and ſtrengthens the Back.</p>
+               <pb n="21" facs="tcp:58366:11"/>
+               <p>
+                  <hi>Cleavers</hi> or <hi>Clivers (Gooſegraſs)</hi> grows in Ditches, 'tis under the Moon, and cold by Nature: Boil'd in Watergruel in Spring, it cleanſes the Blood; the Seed and Juice are good againſt the ſtinging of Adders; drank in Wine, it preſerves from Poyſon and growing too fat, and cures yellow Jaundice, if you drink the Decoction. Made into an Ointment, it healeth Ul<g ref="char:EOLhyphen"/>cers; the bruis'd Leafs ſtop bleeding of any Wound; the Juice taketh away Pain in the Head, being dropt into the Ear; boil'd with Hogs-greaſe, it healeth Swelling and Kernels in the Throat, being anointed with it.</p>
+               <p>
+                  <hi>Clowns Woundwort</hi> grows in Highways, and is un<g ref="char:EOLhyphen"/>der <hi>Saturn,</hi> very healing in all green Wounds; the Juice, Decoction, or Syrup taken in wardly, heals the Bloody-flux, Cancer, Ruptures, ſpitting or piſſing of Blood, eſpecially if ſome Comfry be added.</p>
+               <p>
+                  <hi>Cockſhead</hi> groweth under Hedges, and in Fields, it is under <hi>Venus;</hi> 'tis very good to apply to hard Swel<g ref="char:EOLhyphen"/>lings, Nodes, Knots, Kernels, <hi>&amp;c.</hi> either in a Poul<g ref="char:EOLhyphen"/>tice or the bruis'd Leaves; it cures the Strangury, and makes Cows give much Milk.</p>
+               <p>
+                  <hi>Columbines</hi> grow in Gardens, they are under <hi>Venus,</hi> and by Nature cold, dry, and binding, and are often us'd as Gargariſms for ſore Throats or Mouths. The Seed taken in Wine cauſeth quick Delivery to Wo<g ref="char:EOLhyphen"/>men in labour.</p>
+               <p>
+                  <hi>Coltsfoot</hi> grows in dry Ground, alſo in moiſt low Ground; 'tis an Herb of <hi>Venus,</hi> and is often made in<g ref="char:EOLhyphen"/>to a Syrup: The Leafs dry'd and ſmoak'd with To<g ref="char:EOLhyphen"/>bacco, is good againſt a Cough, Wheaſing, Shortneſs of Breath, Agues, Conſumptions, and Suffocations. If outwardly apply'd, it cures Piles, cholerick Puſtules and Privities enflam'd.</p>
+               <p>
+                  <hi>Comfry</hi> grows in Fields and by Water-ſides; it is under <hi>Saturn,</hi> cold and dry by Nature: 'Tis good a<g ref="char:EOLhyphen"/>gainſt ſpitting of blood or bloody Urine; it helps powerfully all internal Wounds, Hurts, Bruiſes, Ul<g ref="char:EOLhyphen"/>cers, <hi>&amp;c.</hi> if you drink it boil'd in Wine; 'tis alſo ex<g ref="char:EOLhyphen"/>cellent
+<pb n="22" facs="tcp:58366:12"/>to cure all outward Wounds; it ſtrengthens the Back, decocted in Broth or Milk; it cures Fluxes white or red, Running of the Reins, <hi>&amp;c.</hi> A diſtill'd Water or Decoction of the Root will joyn Fleſh in a Pot, tho' cut near aſunder. It cools all Inflamations, inwardly or outwardly apply'd; 'tis good boil'd to eat alone, or with Meat or Bacon, when it's young.</p>
+               <p>
+                  <hi>Coſtmary,</hi> or <hi>Ale-coſt,</hi> grows in Gardens; 'tis un<g ref="char:EOLhyphen"/>der <hi>Jupiter,</hi> being by Nature hot and moiſt: It is a balſamick Herb for all green Wounds or Ulcers, if made into a Salve; the Seed kills Worms; a De<g ref="char:EOLhyphen"/>coction drank is good againſt Conſumptions, crude Humors of the Stomach, Head ach, <hi>&amp;c.</hi> ſtrengthens a weak Liver, cures a daily Ague, opens Obſtructions, ſtrengthens the Womb, diſſolves the Mother, hinders Putrefaction in all parts of the Body.</p>
+               <p>
+                  <hi>Coralwort,</hi> in many places 'tis thought to be a kind of <hi>Crowfoot;</hi> 'tis under the Moon. It cures Gravel and Stone, ſtops Fluxes, eaſeth Pain in the Belly and Sides, provokes Urine, is excellent for Wounds in the Breaſt or Lungs; if you drink a dram of the Root pouder'd in Wine every Morning, it being of a drying quality, ſoon heals any Wound, or hinders a flux of Humors.</p>
+               <p>
+                  <hi>Corn,</hi> when young, about a hand high, clip it and tye it in fagots or bunches, ſo boil it, and it makes good Sallad to cat.</p>
+               <p>
+                  <hi>Cudweed</hi> grows in gravelly barren Ground, 'tis an Herb of <hi>Venus,</hi> temperately cool and dry, very bind<g ref="char:EOLhyphen"/>ing, good in all fluxes of the Belly, taken in De<g ref="char:EOLhyphen"/>coction, it's excellent for Ruptures, Quinzay, Ulcers, Whites and Reds, and Running of the Reins; being boil'd to ſtrong Ley, it kills Nits and Lice, preſerves Garments from Moths, and deſtroys Moles.</p>
+               <p>
+                  <hi>Cowſlips</hi> grow in Fields and Gardens, and are un<g ref="char:EOLhyphen"/>der <hi>Venus:</hi> They are good for the Head and Face outwardly, to take away Spots and Wrinkles; taken inwardly, they cure Vertigo, Palſie, Megrim, Con<g ref="char:EOLhyphen"/>vulſions,
+<pb n="23" facs="tcp:58366:12"/>and Falling-ſickneſs. The Flowers ſtreng<g ref="char:EOLhyphen"/>then the Brain and Nerves.</p>
+               <p>
+                  <hi>Crabs-claws,</hi> or <hi>Water-Sengreen;</hi> it grows in marſh Ground, and is under <hi>Venus.</hi> It greatly ſtrengthens the Reins, is good in all Inflamations, Swellings, St. Anthony's Fire, <hi>&amp;c.</hi> made into an Ointment, it cures them effectually: The Powder of the Herb ta<g ref="char:EOLhyphen"/>ken inwardly, is a powerful Remedy for Ulcers or Bruiſes in the Reins or Kidneys; alſo 'tis good to ſtop the Courſes.</p>
+               <p>
+                  <hi>Creſſes-Bank (Naſturtium)</hi> grows by the Wayſide, is under <hi>Mars,</hi> and is of a biting quality like Mu<g ref="char:EOLhyphen"/>ſtard-ſeed; 'tis good in the yellow Jaundice, Sciatica, <hi>&amp;c.</hi> if made into an Electuary: It is alſo good a<g ref="char:EOLhyphen"/>gainſt Rh<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s and Diſtillations from the Head upon the Lungs, which cauſe a Cough; for any Inflama<g ref="char:EOLhyphen"/>tion, in a Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltice, 'tis a certain Cure. Creſſes in Pottage, eat with Bread, Butter, and Salt, is cleanſing Food, good againſt Fumes and Vapours.</p>
+               <p>
+                  <hi>Creſſes Sciaticae</hi> grow by old Walls and Way-ſides, is a Plant of <hi>Saturn;</hi> it's effectual in curing the Scia<g ref="char:EOLhyphen"/>tica or Hip-gout, being made into a Sal e or Poultice and anointing well with it after a Sweat in Bed; alſo Hands or Feet. It likewiſe cures the Leproſie or Scurf.</p>
+               <p>
+                  <hi>Creſſes (Water-)</hi> grow always in watery places, are under the Moon, and of a ſharp biting taſte, excel<g ref="char:EOLhyphen"/>lent againſt the Scurvy, purge the Blood, bring down the Terms, break the Stone, cure Pimples, Ulcers, and Lethargy, taken in Gruel, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Croſwort</hi> grows in moiſt Ground and Meadows, it is under <hi>Saturn.</hi> Inwardly or outwardly taken, 'tis good for Wounds; decocted in Whitewine, it opens Obſtructions of the Stomach and Bowels, brings away Phlegm, <hi>&amp;c.</hi> Ruptures it alſo cureth.</p>
+               <p>
+                  <hi>Crowfoot</hi> grows in Gardens, it's under <hi>Mars,</hi> of a hot Nature, not fit to be taken inwardly: The Leafs bruis'd, and apply'd with a little Salt to any Part, will raiſe a Bliſter; 'tis proper to apply to the Wriſts
+<pb n="24" facs="tcp:58366:13"/>or Nape of the Neck in Fevers or ſore Eyes; mix'd with Muſtard, 'tis effectual for a Plague, Botch, or Carbuncle.</p>
+               <p>
+                  <hi>Cuckowpint</hi> grows by Hedge-ſides, is under <hi>Mars,</hi> and of a biting fiery quality; ſome are ſpotted on the Leafs, and they are hotteſt. Againſt all Infecti<g ref="char:EOLhyphen"/>ons of the Plague 'tis very effectual; 'tis an Anti<g ref="char:EOLhyphen"/>dote dote againſt Poyſon, if you take ſome of the Juice or Pouder in Wine or Vinegar. It cures Difficulty of Breathing, Phlegm, and Cough, provokes the Terms, brings away Afterbirth, cures Ulcers of the Throat, Jaws, Piles, Gout, falling-down of the Fundament, likewiſe for Spots, Freckles, and Skin-deformities it maketh ſearch.</p>
+               <p>
+                  <hi>Cucumbers</hi> grow in Gardens, are under the Moon, cold and moiſt, good for hot Stomachs, hot Livers, hot Rheums of the Eyes, Inflamations of the Kidneys and Reins; they provoke Urine, cleanſe Ulcers in the Bladder, cure Morphew, Freckles, red Face, and Sun-burn.</p>
+            </div>
+            <div n="D" type="part">
+               <head>D</head>
+               <p>
+                  <hi>Dandelion</hi> grows in Meadows and Paſtures, 'tis un<g ref="char:EOLhyphen"/>der <hi>Jupiter,</hi> hot and dry; it's cleanſing, opening, good for all Obſtructions of the Liver, Gall, and Spleen, and all Diſeaſes thence ariſing, as Hypochon<g ref="char:EOLhyphen"/>driack Melancholy and Flatus; it both cleanſes the Urinary P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſages and heals 'em; by taking the De<g ref="char:EOLhyphen"/>coction of Roots and Leafs in Whitewine, the Ca<g ref="char:EOLhyphen"/>chexia or Conſumption is cured; it procureth Reſt, prevents infectious Air, and is ſafe to eat, or in the Spring for Diet-drink.</p>
+               <p>
+                  <hi>Dittany</hi> of <hi>Crete,</hi> it hath the Vertue of Peonyroyal, it moſt effectually draws out Thorns; the ſmell of it drives away venomous Creatures, and kills 'em if they touch it; the Juice apply'd to Wounds, or Bites of venomous Creatures, is a preſent Remedy, if at the ſame time 'tis taken inwardly.</p>
+               <p>
+                  <hi>Darnel</hi> groweth among Corn, and is under <hi>Saturn</hi> It is of a dry binding quality, and ſtops eating Ul<g ref="char:EOLunhyphen"/>cers
+<pb n="25" facs="tcp:58366:13"/>and Sores, Cancers, Leproſie, Ringworms, <hi>&amp;c.</hi> it diſſolveth Knots or hard Tumors, if apply'd as a Poultice, or if you bruiſe it with a little Vinegar and Salt; it helps the Sciatica, and ſtops a Lask, if the Seed be boil'd in red Wine and drank, likewiſe all Fluxes.</p>
+               <p>
+                  <hi>Dill</hi> grows in Gardens and wild, is under <hi>Mercury.</hi> It quickens the Wit and Memory; if boil'd, and the Decoction drank, it eaſeth the Cholick, all Pains and Windineſs, the Mother, Chincough, and raw Humors, provokes the Terms, and procures Reſt.</p>
+               <p>
+                  <hi>Docks</hi> grow every where, are cold and dry in qua<g ref="char:EOLhyphen"/>lity, and are under <hi>Jupiter.</hi> The red Dock is good for the Liver, ſtrengthens it, and purifies the Blood; but the yellow is beſt for Choler. Sorrel is the cold<g ref="char:EOLhyphen"/>eſt. The Seeds are good to ſtay Fluxes, Diarrhoea's ſpitting of Blood, loathing of Food, and are the beſt dryers of Itch, Scabs, Tertars, or Ringworms, being made into an Ointment or Decoction. All Docks have this quality, that boil them with Meat, and it will ſoon be boil'd enough.</p>
+               <p>
+                  <hi>Devils-bit</hi> groweth in Fields and Meadows, is go<g ref="char:EOLhyphen"/>vern'd by <hi>Venus.</hi> It cures Fevers, peſtilential Poy<g ref="char:EOLhyphen"/>ſons, and Bitings of venomous Beaſts; diſſolves con<g ref="char:EOLhyphen"/>geal'd Blood thro' a Bruiſe or Fall: Decocted and drank, it cures Tumors, Throat-ſwellings, driveth a<g ref="char:EOLhyphen"/>way Fumes and Vapours of the Mother, kills Worms, and is a very good Wound-herb.</p>
+               <p>
+                  <hi>Dodders of Thyme.</hi> Dodders are all Bindweeds on other Herbs, but that upon Thyme is the true one, which purgeth Melancholy, and opens Obſtructions of the Liver, Gall, Sple<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, Hypochondriac Diſury.</p>
+               <p>
+                  <hi>Dog-graſs</hi> groweth in Gardens, is under <hi>Jupiter,</hi> and is a great opener for the Reins and Liver; it ſtayeth Lask and Vomiting, if boil'd in Whitewine: Drink the Decoction, for 'tis very opening, remedying all Diſeaſes that proceed from Stoppage.</p>
+               <p>
+                  <hi>Dogs-bane</hi> groweth in <hi>Syria,</hi> and kills whatſoever eats it; the Leaf <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bread and given to Dogs, kills 'em.</p>
+               <pb n="26" facs="tcp:58366:14"/>
+               <p>
+                  <hi>Doves-foot</hi> groweth in Paſture, Garden, <hi>&amp;c.</hi> 'tis un<g ref="char:EOLhyphen"/>der <hi>Mars,</hi> and admirable for the Cholick, and all Cholick-pains; 'tis good againſt the Stone and Gra<g ref="char:EOLhyphen"/>vel in the Kidneys: The Decoction in Whitewine is extraordinary for an inward Wound, Gout, Ulcer, Fiſtula, or Rupture, and outwardly applied is good for any Pain in the Joints.</p>
+               <p>
+                  <hi>Ducks-meat</hi> grows on the top of the Water, 'tis of a cold quality, and govern'd by the <hi>Moon;</hi> 'tis good againſt the Gout, all Inflamations, and St. <hi>Anthony</hi>'s Fire, either of it ſelf, or in a Poultice with Barley<g ref="char:EOLhyphen"/>meal. The Water diſtill'd is good for a Fever, Head<g ref="char:EOLhyphen"/>ach, Swelling of the Cods, and Redneſs of the Eyes.</p>
+               <p>
+                  <hi>Down-thiſtle</hi> (is prickly) grows in Ditches and Banks, 'tis under <hi>Mars,</hi> and is good againſt Cramps and Conſumptions, being of a hot quality; 'tis alſo good againſt Rickets in Children.</p>
+               <p>
+                  <hi>Dragons</hi> grow in Gardens, of the colour of a Snake, 'tis under <hi>Mars,</hi> and ſo biting, that it is beſt to diſtil it in what Liquor is beſt for your Uſe. It cleanſeth the Stomach, and inward parts, ſo it doth the exter<g ref="char:EOLhyphen"/>nal parts of Morphew, Freckles, Sun-burn, Wounds internal or external, as Cankers, Ulcers, Polypus, Pin and Web, and clears the Sight; 'tis alſo good againſt Infections, Plague, Poiſon, and venomous Beaſts. 'Tis reported that no Serpent will bite him that carries this Herb about him: With the Juice rub your Hands, then put them into the Water, and the Tiſh will come to your Hand, that you may take them. <hi>Lemery,</hi> p. 85.</p>
+               <p>
+                  <hi>Dropwort</hi> grows in Meadows and dry Ground, 'tis under <hi>Venus,</hi> and is powerful upon the Secrets; it opens the Paſſages of Urine, cures the Strangury, Obſtructions of the Reins, breaks the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one, Wind, and gives Breath, if the Herb be decocted in White<g ref="char:EOLhyphen"/>wine, or the Powder of the Root be taken with Ho<g ref="char:EOLhyphen"/>ney, or any convenient Syrup. 'Tis alſo good for all Diſeaſes of the Breaſt and Lungs, cuts Phlegm, cures a Cough, and all Defects of the Urine.</p>
+            </div>
+            <div n="E" type="part">
+               <pb n="27" facs="tcp:58366:14"/>
+               <head>E</head>
+               <p>
+                  <hi>Elder-tree</hi> grows in Hedges, and is under <hi>Venus:</hi> This Shrub is of great Ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ue (in the Spring) to purge the Blood, mixt with other Spring-herbs. A Book of 1 <hi>s.</hi> or 1 <hi>s.</hi> 6 <hi>d.</hi> has been written only about the Vertues of this Shrub; 'tis good againſt all In<g ref="char:EOLhyphen"/>flamations, external or internal, in Ointment: The inward Bark cures all Burnings and Inflamations; the diſtill'd Water of the Berries and young Tops cures all Surfeits and Fevers. The Berries boil'd with Sage makes a pleaſant Tea like Claret.</p>
+               <p>
+                  <hi>Elder (Dwarf)</hi> grows wild in Hedges, <hi>&amp;c.</hi> 'tis under <hi>Venus,</hi> and a very good Purge for the Dropſy; the Berries or inward Bark of the Root boil'd in Whitewine, and drank, worketh ſtrongly by Stool and Urine. The Juice of the Berries boil'd with Honey, and dropt into the Ears, cures them of Pain; a diſtill'd Water of the Leaves and Berries taketh a<g ref="char:EOLhyphen"/>way all Sun-burn, Morphew, or Deformities of the Skin: It cleanſeth Blood-ſhot Eyes, cures the Gour by purging, and the Stone and Cholick.</p>
+               <p>
+                  <hi>Elm-tree</hi> grows in woods or Fields, 'tis under <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> of a cold and dry quality; the Bark and Leaves bruis'd and laid on Green Wounds, heals 'em: being mix'd with Vinegar, it cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es Leproſy and Scurf; a Decoction of the Leaves and Bark is good in Rup<g ref="char:EOLhyphen"/>tures and Fractures, by applying to it wet Cloths; applied hot with Cloths to Tumours, diſſolves 'em; it cleanſes the Skin of all filth, gives Eaſe to the Gout, and is good for all Scalds or Burns.</p>
+               <p>
+                  <hi>Endive</hi> grows in Gardens, and is under <hi>Jupiter;</hi> the <hi>Galeniſts</hi> uſe it in cooling Juleps againſt Fevers, Agues, Paſſions of the Heart, Sharpneſs of Urine, Excoriations, Tumours, and Peſtilential Sores; 'tis excellent for all Inflamations of the Eyes, and dim<g ref="char:EOLhyphen"/>neſs of Sight; apply'd outwardly it allays the Pain of the Gout.</p>
+               <p>
+                  <hi>Elecampane</hi> grows in ſhady moiſt Places, 'tis un<g ref="char:EOLhyphen"/>der <hi>Mercury,</hi> very h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and opening, and good for
+<pb n="28" facs="tcp:58366:15"/>windy and cold S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omachs. The Roots preſerv'd cure Wheezing, Cough, opens the Spleen, cures Stitches, provokes the Terms, and helps Concoction; the Root in powder, taken with sugar, does the ſame: It prevents Infection, reſiſts Poiſon, and is good for ſore Eyes, looſe Tooth, kills Worms, cures the Scab or Itch, being made into an Ointment, and takes a<g ref="char:EOLhyphen"/>way all Deformities of the Skin.</p>
+               <p>
+                  <hi>Eye-bright</hi> groweth in Meadows, is under <hi>Leo,</hi> and rul'd by the <hi>Sun;</hi> it is excellent to ſtrengthen the Brain, by drinking the Decoction in Wine or Broth, or diſtill'd Water: Dropping ſome of it into the Eyes for ſeveral days together, helpeth all Diſeaſes of the Eyes, or dimneſs of Sight; it helpeth a weak Brain and watry Eyes, taken any manner of way. Some boil it in clean Water, and ſtrain it, keep it in a Glaſs, and waſh the Eyes with it, is good for ſore Eyes.</p>
+            </div>
+            <div n="F" type="part">
+               <head>F</head>
+               <p>
+                  <hi>Fern</hi> grows on Heaths, and is under <hi>Mercury;</hi> the Roots boil'd in Whitewine kills all ſorts of Worms, and opens Obſtructions of the Spleen: The Leaves and Roots purgeth the Belly of Choler and Water, but troubleth the Stomach, therefore dangerous for Women with Child. The Leaves and Roots boil'd in Oyl makes a good Ointment to heal all Wounds. and to dry up malignant Ulcers; the Smoke of Fern burnt, drives away Serpents, Knats, Flies, or any ve<g ref="char:EOLhyphen"/>nomous Beaſt. 'Tis obſerv'd to cauſe Barrenneſs in Women.</p>
+               <p>
+                  <hi>Fern (Water)</hi> is under <hi>Saturn,</hi> of the ſame nature, but more powerful; they provoke Urine much.</p>
+               <p>
+                  <hi>Featherfew</hi> grows moſtly in Gardens, <hi>&amp;c.</hi> 'tis un<g ref="char:EOLhyphen"/>der <hi>Venus:</hi> Boil'd in Whitewine it ſtrengthens the Womb; and frees from Birth and After-birth; 'tis good for all Diſtempers of the Mother, and brings down the Courſes ſpeedily. A hot Poultice applied to the Belly, takes away all griping Pains; 'tis an
+<pb n="29" facs="tcp:58366:15"/>effectual Remedy againſt Opium, if the Decoction is drank. It flowers in <hi>June</hi> and <hi>July.</hi>
+               </p>
+               <p>
+                  <hi>Fennel</hi> grows in Gardens, and is under <hi>Mercury:</hi> It breaks Wind, the Stone and Gravel, and provokes Urine; it encreaſes and amends the faults of Milk, cures the Hickup, loathing of Meat, reſiſts poiſonous things, and is good for Obſtructions of the Liver, Spleen, <hi>&amp;c.</hi> It cures the Gout, yellow Jaundice, pro<g ref="char:EOLhyphen"/>vokes the Terms, and makes lean: The diſtill'd Wa<g ref="char:EOLhyphen"/>ter is good for ſore Eyes. 'Tis excellent to boil and eat with Fiſh.</p>
+               <p>
+                  <hi>Fennel (Hog-)</hi> grows about Houſes where Cattle frequent, and is under <hi>Mercury:</hi> To cure the Le<g ref="char:EOLhyphen"/>thargy, put the Juice into the Noſe; and us'd with Oyl and Vinegar, 'tis good for the Megrim, Vertigo, Falling-ſickneſs, Head-ach, Palſie, Sciatica, Cramp, Cough and Lameneſs. The Decoction, drank in Wine, is good for a Cough, Cholick-pains, and ſhortneſs of Breath; it purges gently, gives Eaſe to Women that travail in Child-bed, and eaſes Pains in the Womb, Bladder and Reins. The Juice, mix'd with Wine, eaſes the Tooth-ach, cures all green Wounds, and cleanſes Ulcers, drying them up.</p>
+               <p>
+                  <hi>Figwort</hi> grows in Meadows and ſhady Woods, 'tis under <hi>Venus</hi> in <hi>Taurus,</hi> and excellent for all Diſeaſes in the Neck and Throat, as the King's-evil and Squi<g ref="char:EOLhyphen"/>nanzy. The Herb decocted and drank in White<g ref="char:EOLhyphen"/>wine, and the bruiſed Herb applied outwardly, cures Wens, Knots, Piles, and Kernels; dries Ulcers that are foul, and takes away Leproſies, Spots, Redneſs, and all Deformities.</p>
+               <p>
+                  <hi>Fig-tree</hi> grows in Gardens, and is under <hi>Jupiter;</hi> the Juice of the Leaves and Branches are moiſt and hot. The Decoction cures the Head of Scurf and Leproſie, clears the Face of Morphew, and the Body of Scabs and Ulcers: The Juice kills Warts, and the Decoction cures the Bloody-flux, Chilblains, Deafneſs, and the Tooth-ach, dropt into the Ears, and the biting of mad Dogs or Serpents: The Fruit
+<pb n="30" facs="tcp:58366:16"/>is balſamick and opening, if eaten. The Decoction cleanſes the Breaſt, Lungs, Womb, Belly, and Sores, and cures ſhortneſs of Breath, Hoarſeneſs, Coughs, Dropſies, and Conſumptions.</p>
+               <p>
+                  <hi>Flag (Water-)</hi> or <hi>Flower-de-luce,</hi> grows in watry Ditches; 'tis under the <hi>Moon,</hi> and is very dry and cooling: The diſtill'd Water of the Flower, Root, and Herb, cures watry Eyes, and Blemiſhes of the Eyes. 'Tis a good Fomentation for all Inflamations, Ulcers, Cankers, ſore Mouths, and Breaſts: It cures the <hi>Noli me Tangere,</hi> and Ulcers in the Privities, by Ointment or otherwiſe.</p>
+               <p>
+                  <hi>Flaxweed (Toad-)</hi> groweth in Meadows, Way-ſides, Paths, and Banks; 'tis under <hi>Mars,</hi> hot and dry: It cleanſes the Reins, provokes Urine, prevents the Dropſie in cold phlegmatick Perſons; it opens Ob<g ref="char:EOLhyphen"/>ſtructions of the Liver and Spleen, cures the yellow Jaundice, expels Poiſon, drives forth the dead Child and After-birth, provokes the Courſes, cures Inflama<g ref="char:EOLhyphen"/>tions of the Eyes, and Pimples of the Face. The diſtill'd Water cures Fiſtula's, Cankers, Leproſies, Itch, Scabs, or any Spots of Deformity.</p>
+               <p>
+                  <hi>Flea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ane,</hi> there is two ſorts, one groweth in Gar<g ref="char:EOLhyphen"/>dens, the other in Fields near the Sea; 'tis under <hi>Saturn,</hi> cold and dry. The Seed powder'd and ta<g ref="char:EOLhyphen"/>ken with Conſerve of Roſes, ſtops the Bloody-flux, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd corroding Humours; it alſo ſtops the too great Violence of over-ſtrong purging Phyſick, and chole<g ref="char:EOLhyphen"/>rick Defluxions; the Mucilage of the Seed made with Roſe-water, allays Thirſt in Fevers, cures the Gout, Head-ach, Megrims, Hoarſeneſs, Agues, Scia<g ref="char:EOLhyphen"/>rica, ſore Nipples, Breaſts, Worms, inflam'd pain'd Ears and Ulcers.</p>
+               <p>
+                  <hi>Flixweed</hi> grows in Fields and Way-ſides, 'tis under <hi>Saturn,</hi> cold and dry; it's admirable to ſtay Fluxes, Diarrhoea's, and Dyſenteries; it ſtops the Terms in Women, and joins broken Bones: Being decocted in Wine and drank, kills Worms, heals internal Ulcers, Bruiſes and Wounds. <hi>Paracelſus</hi> commends it for
+<pb n="31" facs="tcp:58366:16"/>uniting broken Bones; it's good to make either Plai<g ref="char:EOLhyphen"/>ſter, Ointment, or Syrup.</p>
+               <p>
+                  <hi>Flower-de-Luce</hi> groweth in Gardens, and is under the Moon. A Decoction drank with Honey or Sugar cleanſeth the Stomach of groſs or thick Phlegm, cures the Dropſy, Jaundice, Agues, Cholick, opens Obſtru<g ref="char:EOLhyphen"/>ctions of Liver and Spleen, breaks the Stone, helps Convulſions, Cramps, ſtoppage of Urine, provokes the Terms, cures a Cough, Head-ach, cauſeth Sleep, and cures the Piles, if fomented with it; it's a good Gargle for the Mouth, faſtens looſe Teeth, cures the Gout, Ulcer, Fiſtula, Cancer, and Noiſe in the Ears, covereth naked Bones with Fleſh again.</p>
+               <p>
+                  <hi>Fluellin</hi> grows in Corn-fields and other places, and is govern'd by the Moon. It helps Fluxes, ſtoppeth the Terms, heals Ulcers, cures Wounds and Cancers, is good for watery Eyes, knits broken Bones, and cu<g ref="char:EOLhyphen"/>reth Wounds outward or inward, taken in Decoction or diſtill'd.</p>
+               <p>
+                  <hi>Foxglove</hi> grows on dry ſandy Ground, and under Hedges, is govern'd by <hi>Venus,</hi> and is good to cure green Wounds by applying a bruiſed Leaf to it: The Juice put into old Sores, ſpeedily cures; it cleanſeth and heals all foul Ulcers, opens Obſtructions of the Liver and Spleen, if boil'd in Whitewine and drank. It cures the Kings-Evil, ſcabby Heads, <hi>&amp;c.</hi> an Oint<g ref="char:EOLhyphen"/>ment being made of the Juice, none excelling. The Decoction hath cured ſeveral of the Falling-ſickneſs.</p>
+               <p>
+                  <hi>Fumitory</hi> grows in Corn-fields, is under <hi>Saturn,</hi> and cureth all Saturnative Diſtempers, being boil'd in Whitewine or Whey, by it ſelf or with <hi>Polipodium.</hi> It is very cooling and opening for the Liver, Spleen, Reins, and Bladder, purging the Blood and Stomach of melancholy Humour. It cures ſaltiſh cholerick Di<g ref="char:EOLhyphen"/>ſtempers that breed Scabs, Tettars, Leproſy, Itch, and Ring-worms, and ſometimes ſoul Ulcers. It operates by Urine, if you take the Powder of the dry Herb, or make Tea of it. The Decoction cures Jaundice, Fevers, Plague, ſore Throat, Pimples, <hi>&amp;c.</hi>
+               </p>
+               <pb n="32" facs="tcp:58366:17"/>
+               <p>
+                  <hi>Furz</hi> or <hi>Gosbuſh</hi> groweth on barren Heaths, and is under <hi>Mars.</hi> It opens Obſtructions of the Liver and Spleen: The yellow Flower boil'd in Whitewine or Sherry cures the Jaundice, provokes Urine, cleanſeth the Kidneys from Stone or Gravel and its cauſe.</p>
+            </div>
+            <div n="G" type="part">
+               <head>G</head>
+               <p>
+                  <hi>Garlick</hi> grows in Gardens and Corn-fields, and is under <hi>Mars.</hi> 'Tis hot and dry in the 3d degree, ve<g ref="char:EOLhyphen"/>ry opening to the ſhort-breath'd, good againſt Poyſon and Infection, provokes the Terms, killeth Worms, cures Lethargy, Phlegm, Vapours, Dropſy, Cramp, Falling-ſickneſs, <hi>&amp;c.</hi> 'Tis very bad for the Brain, but excellent againſt the Bite of a mad Dog, the De<g ref="char:EOLhyphen"/>coction drank 40 Days in Whitewine, and a Clove or two bruiſed and laid to the place; but aſſoon as bit, waſh it well with Salt and Water, Vinegar, or your own Water, or Spirit of Wine. Mr. <hi>Cole</hi> ſaith, That Garlick, Onions, Leeks, and Lettice (nay, I believe Cucumber too) if uſed in too great a quantity, are poyſonous, but moderately, are as wholſom as any.</p>
+               <p>
+                  <hi>Gentian,</hi> or <hi>Felwort,</hi> or <hi>Baldmony,</hi> (there's two ſorts) under the dominion of <hi>Mars,</hi> they both ſtrengthen Nature againſt Poyſon and Plague, and cure biting of mad Dogs. The Pouder drank in <hi>Whitewine</hi> hinders Fainting and Swooning; taken in Pouder or De<g ref="char:EOLhyphen"/>coction, it reſtores a loſt Appetite, opens Obſtructions of the Liver. The Herb infus'd in a Glaſs of Wine, refreſhes Travellers that are cold in their Joints thro' bad Lodging. It helps all inward Pain, Cramp, Brui<g ref="char:EOLhyphen"/>ſes by Falls, S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itch, <hi>&amp;c.</hi> 'Tis not proper to give to Women with Child for diverſe Reaſons: It provokes Urine, breaks the Stone, frees the Body from Ulcers, King-Evil, Ague, and Worms. The Decoction is to be uſed inwardly and outwardly. It cureth alſo Bots in Cattle, and a venom'd Udder, by waſhing with the Decoction</p>
+               <p>
+                  <hi>Gillyflowers (Clove)</hi> grow in Gardens, are under <hi>Jupiter,</hi> and pretty temperate, ſtrengthening both the Heart and Brain, ſo conſequently good. There are
+<pb n="33" facs="tcp:58366:17"/>both a Syrup and Conſerve made of 'em, to be had at the Apothecaries, and taking a little now and then ſtrengthens much a Conſumptive Perſon; it's good a<g ref="char:EOLhyphen"/>gainſt Fevers, and expels Poyſon.</p>
+               <p>
+                  <hi>Germander</hi> grows in Gardens, is under <hi>Mercury,</hi> and quickens the Apprehenſion much: Taken in De<g ref="char:EOLhyphen"/>coction or Electuary, it cures Coughs, Obſtructions in the Spleen, cleanſes the Reins, provokes the Terms, drives out a dead Child, cures Agues, Poyſon, Ul<g ref="char:EOLhyphen"/>cers, Falling-ſickneſs, Headach, Melancholy, Palſie, Dulneſs of Spirit, yellow Jaundice, Worms, and ma<g ref="char:EOLhyphen"/>keth a good Complexion.</p>
+               <p>
+                  <hi>Gladwin</hi> (ſtinking) grows in high and low Ground, and ſometimes in Gardens, or by Wood-ſides; 'tis un<g ref="char:EOLhyphen"/>der <hi>Saturn.</hi> The Flowers, Stalk, and Root decocted in Wine purges Choler and Phlegm from Head and Stomach; the Juice of the Herb ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ffed up, cauſeth Sneezing, ſo doth the Pouder: This Herb helps Gout, Convulſion, Gripes, Fluxes, Strangury, provokes the Terms, opens Obſtruction of Urine, Spleen, <hi>&amp;c.</hi> It heals Wounds, broken Bones, Kings-Evil, Itch, Scab, difficulty of breathing, and cures all Skin-deformities.</p>
+               <p>
+                  <hi>Gill,</hi> ſee <hi>Alehoof.</hi>
+               </p>
+               <p>
+                  <hi>Golden Rod</hi> grows in Woods and open places, is under <hi>Venus,</hi> and is excellent to reſtore decay'd Beau<g ref="char:EOLhyphen"/>ty, 'tis good againſt the Stone in the Kidneys, taken dry or in Decoction, cureth Bloody-flux; Terms and Ruptures it ſtops; it cures Ulcers, ſore Mouths, and faſtens looſe Teeth; 'tis alſo good for green Wounds and old Sores, makes a good Gargle to waſh the privy Parts or Throats of Men or Women.</p>
+               <p>
+                  <hi>Goatsbeard (Tragapogon)</hi> boil'd when young, makes a curious Diſh to eat, warming the Stomach, and reſtoring a loſt Appetite.</p>
+               <p>
+                  <hi>Goutwort</hi> grows by Walls, Hedges, and in Gardens, is under <hi>Saturn,</hi> and is a fovereign Remedy for all Gouts, inwardly or outwardly taken; nay, tho' it be but carried about one, it prevents that painful Diſeaſe.</p>
+               <p>
+                  <hi>Gromell;</hi> there are diverſe ſorts in Gardens; it is
+<pb n="34" facs="tcp:58366:18"/>under <hi>Venus,</hi> and is good for Gravel, Stone, or Stran<g ref="char:EOLhyphen"/>gury, provoking Urine: The Seed is of the greateſt vertue; being bruis'd and put in Whitewine, Poſſet-drink, or Broth, and a dram or two drank, it opens all Obſtructions, and cauſes a ſpeedy Delivery.</p>
+               <p>
+                  <hi>Gooſeberry-buſh</hi> grows in Gardens, is under <hi>Venus,</hi> the ripe Berries create an Appetite, cool hot Stomachs, ſtay Longing, <hi>&amp;c.</hi> a Decoction of the Leafs and Fruit cool all Inflamations and St. Anthony's Fire. The Berries ripe cool the Stomach, Liver, Reins, and ſharp Urine.</p>
+               <p>
+                  <hi>Ground-Ivy,</hi> ſee <hi>Alehoof.</hi>
+               </p>
+               <p>
+                  <hi>Winter-Green,</hi> is a Herb that groweth in Woods northward; 'tis under <hi>Saturn,</hi> and is an excellent Herb for a Green Wound eſpecially, healing it quick<g ref="char:EOLhyphen"/>ly by only the green Leaf being bruis'd and apply'd. Made into an Ointment, 'tis very good for Wounds. The Juice inwardly taken cures Ulcers in the Reins and Neck of the Bladder, ſtops the Terms, ſtays all Fluxes and Looſneſſes, and cureth Fiſtula's, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Groundſel</hi> groweth on Bank-ſides and other places, is under <hi>Venus,</hi> and is friendly in outward Applica<g ref="char:EOLhyphen"/>tions. It cauſeth Vomiting if inwardly taken, allays Heat, Inflamations, Swellings, Impoſthumes, <hi>&amp;c.</hi> ripens Tumors, purgeth Choler, cures the Jaundice, opens Obſtructions of the Liver, Spleen, and Reins; cures Falling-ſickneſs, Cholick, Sciatica, and provokes the Terms. 'Tis an excellent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oultice-Herb for Womens ſore Breaſts or Privy Parts. A handful ſhred and put in a Paper-bag prick'd full of holes, about 4 inches ſquare, and apply'd (being firſt put into fine Sarſene<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Linen, that it may not fall out) to the Pit of the Stomach 2 or 3 hours before the Fit, cures Agues.</p>
+            </div>
+            <div n="H" type="part">
+               <head>H</head>
+               <p>
+                  <hi>Hearts-eaſe</hi> grows in Gardens and Fields, on bar<g ref="char:EOLhyphen"/>ren Grounds, and is under <hi>Saturn,</hi> cold and ſlimy. This Herb decocted ſtrongly, or the Herb and Flower diſtill'd, is a powerful Remedy for the French Pox, and ſuch Antivenerians are the beſt Cure for that Di<g ref="char:EOLhyphen"/>ſeaſe,
+<pb n="35" facs="tcp:58366:18"/>much better than fluxing. The Herb is good againſt Venery, and the Spirit of it is good for Con<g ref="char:EOLhyphen"/>vulſion-fits in Children, Pleuriſie, Falling-ſickneſs, Scabs, Itch, Scurf, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Hartichokes</hi> grow in Kitchen-gardens, are under <hi>Venus:</hi> They promote Venery, yet are good Food, and Phyſick for thoſe that are troubled with nightly Pollutions, by ſtopping the Seminal Veſſels; the Stalks or Roots boil'd in Whitewine and drank, cleanſeth the Reins wonderfully, brings away ſtinking Urine, and cures the Running of the Reins.</p>
+               <p>
+                  <hi>Harts-Tongue</hi> is found in dry Ground among Trees and Buſhes, is under <hi>Jupiter<g ref="char:punc">▪</g>
+                  </hi> and ſtrengthens the Li<g ref="char:EOLhyphen"/>ver much; 'tis fit to keep in Syrup <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lwaies by you. It is good in Diet-drink againſt all Obſtructions of the Liver, Spleen, Reins, <hi>&amp;c.</hi> It cureth Diarrhoea's, Dy<g ref="char:EOLhyphen"/>ſenteries, and all immoderate Fluxes: The diſtill'd Water or Decoction is good againſt Hiccups, Belch<g ref="char:EOLhyphen"/>ing, and Heart-paſſion, alſo againſt biting of venom<g ref="char:EOLhyphen"/>ous Beaſts, corrupted Gums, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Haſlenut</hi> groweth in Hedges, is under <hi>Mercury;</hi> the Kernels preſs'd (like Almonds) will yield a kind of Milk, which being mix'd with Honey, cures an old Cough, and Diſtillations from the Head. The Shells and Husks dry'd and pouder'd, mixt with Cla<g ref="char:EOLhyphen"/>ret, and drank, ſtops all Fluxes.</p>
+               <p>
+                  <hi>Hawkweed (Sowthiſtle)</hi> groweth about Way-ſides and Fields, is under <hi>Saturn,</hi> and of a cooling quali<g ref="char:EOLhyphen"/>ty; it takes away cholerick Heat, and bilous Over<g ref="char:EOLhyphen"/>flowings in the Stomach; it cureth Agues and Fevers, helps Digeſtion, if you drink the Concoction in White<g ref="char:EOLhyphen"/>wine: It cures Dropſy, Phlegm, Cholick, Obſtructi<g ref="char:EOLhyphen"/>ons of the Liver and Spleen, hinders nightly Pollu<g ref="char:EOLhyphen"/>tion, cooleth the Reins, reſiſts Poyſon and ſtinging of Serpents; 'tis good for the Eyes, cures Burns, Ulcers, Inflamations, St. Anthony's Fire, Heat, ſalt Phlegm, Convulſions, <hi>&amp;c.</hi> it cures Freekles and Morphew.</p>
+               <p>
+                  <hi>Horſe-Radiſh,</hi> ſee <hi>Rad<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhes.</hi>
+               </p>
+               <p>
+                  <hi>Hawthorn-tree</hi> grows in Hedges, and is under <hi>Mars.</hi>
+                  <pb n="36" facs="tcp:58366:19"/>The Husks are good Food for Hogs, the Haws dry'd, pouder'd, and drank in Whitewine, are very good in the Stone and Gravel in Reins or Bladder, and the Dropſy: The diſtill'd Water of the white Flowers ſtay Looſneſs or Flux of the Belly, and will draw out Thorns, if you dip a Cloth therein, and lay to the place, or other things.</p>
+               <p>
+                  <hi>Hemlock</hi> grows in moſt waſte places, and is under <hi>Saturn,</hi> cold and dry. 'Tis very cooling, good in In<g ref="char:EOLhyphen"/>flamations, withſtands Lethargy; bruiſed and apply'd to the Privities, it cures a Priapiſm or involuntary erection of the Yard: It's very dangerous inwardly taken, but you may apply it outwardly to Tumors, St. Anthony's Fire, <hi>&amp;c.</hi> It giveth eaſe to a Pin or Web in the Eye, if you mix ſome of it with Bay-ſalt and apply it to the contrary Wriſt 24 hours, and cures in three times dreſſing: Alſo the Root roaſted in Em<g ref="char:EOLhyphen"/>bers and apply'd to Hand or Foot, cures them. And if by miſtake you have eat a Root of this, your Re<g ref="char:EOLhyphen"/>medy is, to drink a draught of good Wine or Vinegar before it ſtrike to your Heart.</p>
+               <p>
+                  <hi>Hemp</hi> grows in Fields, and is under <hi>Saturn.</hi> The Seed expels Wind; much uſed, it drys up Nature; boil'd in Milk, it cures a hot and dry Cough; it opens Obſtructions, cures the Jaundice, Gout, Inflamations, Worms, Lask, <hi>&amp;c.</hi> and makes Hens lay all Winter.</p>
+               <p>
+                  <hi>Henbane</hi> groweth under Walls, in Ditches, Dung<g ref="char:EOLhyphen"/>hills, <hi>&amp;c.</hi> and is under <hi>Saturn.</hi> It powerfully reſiſts Heat, Inflamations in the Eyes or in any other part, uſed either in Decoction, Seed, or Juice: It aſſwages Inflamations in Womens Breaſts or Mens Cods, and the Gout: Oil of the Seed helps Pain in the Ears or Deafneſs. A Decoction of the Herb kills Lice, cures the Toothach, cools the Reins in the French Pox, and healeth Chilblains or kibed Heels. It is not to be taken inwardly, being poyſonous, but outwardly uſed by diſtill'd Water, Juice, Decoction, Plaiſter, Ointment, or Oil: Smoak'd in Tobacco, it cures the Toothach. The Juice mix'd with the Hares Blood.
+<pb n="37" facs="tcp:58366:19"/>ſew'd in a Hare's Skin, and buried, will draw all the Hares that way. <hi>Lemery</hi>'s Curioſities, <hi>p.</hi> 83.</p>
+               <p>
+                  <hi>Hedge-Hyſſop,</hi> they grow by Water-ſides and in wet Ground, are under <hi>Mars,</hi> and violent Purgers of Cho<g ref="char:EOLhyphen"/>ler and Phlegm, unleſs well corrected, then they are good againſt Dropſy, Gout, Sciatica, <hi>&amp;c.</hi> Outwardly apply'd to the Navel, they kill Worms, and are ex<g ref="char:EOLhyphen"/>cellent good for Ulcers and old Sores.</p>
+               <p>
+                  <hi>Hellebore</hi> (black) groweth in Gardens, wet Grounds and Woods, is under <hi>Saturn,</hi> and by ſimpathy cureth Melancholy; by purging it cureth Madneſs and a Quartan Ague, the Falling-ſickneſs, black Jaundice and yellow, the Gout, Leproſy, Convulſions, and pro<g ref="char:EOLhyphen"/>vokes the Terms. The Engliſh ſort is much milder than that which is brought from abroad; the Farriers uſe it much. It is naturally of a poyſonous quality, therefore to be corrected; 20 grains inwardly taken is ſufficient for one time, but let that be corrected with half ſo much Cinamon. Some rowel Cattle by boring a hole in their Ear, and putting a bit of the Root therein, which cures 'em in 24 hours if they are poyſon'd. The Root pouder'd and made up with Honey and Wheat-flour, kills Rats and Mice. The white does the ſame. White Hellebore and ſweet Marjoram, of each a like quantity, pouder'd and ſnuf<g ref="char:EOLhyphen"/>fed up the Noſe, cures Pain in the Head, if it proceed from a cold Cauſe. Uſe it with a Phyſician's Advice.</p>
+               <p>
+                  <hi>Herb-Robert</hi> grows by Way-ſides in Banks, and is under <hi>Venus.</hi> It's good to break the Stone and Gra<g ref="char:EOLhyphen"/>vel, ſtops the Terms and Bleeding, healeth all green Wounds and Ulcers in the Privities or elſewhere.</p>
+               <p>
+                  <hi>Herb True-love</hi> groweth in Woods and corners of Corn-fields, is under <hi>Saturn,</hi> and expels Poyſon, pre<g ref="char:EOLhyphen"/>vents Plague and Infection, cureth Fevers, Cholick, Witchcraft, Wounds, Ulcers, Swelling of Cods, <hi>&amp;c.</hi> by taking a dram of the Root or Berry pouder'd eve<g ref="char:EOLhyphen"/>ry day in Wine or Poſſet-drink: It alſo caſeth the Cholick, and the Leaf cures green Wounds.</p>
+               <p>
+                  <hi>Hyſſop</hi> grows in Gardens, is under <hi>Jupiter,</hi> but hot
+<pb n="38" facs="tcp:58366:20"/>and dry in the 3d degree: It is very opening, and good againſt a Cough, Wheaſing, Short-breath, groſs Humors, Jaundice, Dropſy, <hi>&amp;c.</hi> It opens Obſtructions, is good for ſore Throats, Quinzay, Tooth-ach, Noiſe in the Ears, and Falling-ſickneſs. The Oil cureth Itching, killeth Lice, and is excellent in a Conſump<g ref="char:EOLhyphen"/>tion, taken either in diſtill'd Water, Decoction, Oil, or Pouder.</p>
+               <p>
+                  <hi>Hops</hi> grow in low Grounds, moſtly under <hi>Mars,</hi> are very opening, cleanſe the Blood, Spleen, Liver, and Reins from Stone or Gravel, and provoke Urine. A Decoction helps Scab, Itch, Tettar, and other ails, provokes the Terms, cures yellow Jaundice and bad Complexion. Beer is more opening than Ale, but as Ale is ſweet, 'tis conſequently more nouriſhing and fattening. Young Hop-tops are very good boil'd.</p>
+               <p>
+                  <hi>Horehound</hi> grows in high Ground, is govern'd by <hi>Mercury,</hi> very opening: If decocted when dry, or the Juice of the green Herb mix'd with Honey, it is a Remedy for Wheaſing or Short-breath, or a Conſum<g ref="char:EOLhyphen"/>ption thro' long Sickneſs; it reſiſts Poyſon, provokes the Terms, is good againſt Venom of Beaſts, Jaun<g ref="char:EOLhyphen"/>dice, Ulcers, <hi>&amp;c.</hi> but excellent to ſtrengthen the Li<g ref="char:EOLhyphen"/>ver, and in Diſtempers aſthmatical.</p>
+               <p>
+                  <hi>Horſe-tail</hi> groweth in wet Ground, is under <hi>Saturn,</hi> cold, dry, and binding. The ſmooth is the beſt ſort; 'tis very powerful in ſtopping of Blood, either inward or outward, by drinking the Juice, Decoction, or di<g ref="char:EOLhyphen"/>ſtill'd Water; it ſtops the Lask or Flux, the Terms, piſſing of Blood, internal Ulcers, Excoriation of the Bladder, Stone, Wounds, Ruptures, Strangury, Cough, Inflamations, Pimples, red Face, and all Breakings-out, Ulcers of the Privities of Man or Woman; it ſoon conglutinateth the Lips of Green-wounds.</p>
+               <p>
+                  <hi>Houſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>leek</hi> groweth on Houſes or Walls, is under <hi>Jupiter,</hi> cooling and full of Juice, ſo good for Heats inward or outward, in Face, Eyes or elſewhere: You may make a Poſſet and ſtrain the Juice into it. Some ſay it preſerves the Houſe from Fire. It cures Agues,
+<pb n="39" facs="tcp:58366:20"/>being drank, all hot defluxions of ſharp ſalt Humours in the Bowels, and immoderate flux of the Terms: It allayeth Inflamations, helpeth Scalds, Burns, Shingles, eating and fretting Ulcers, helpeth Headach and heat of the Brain: In Deliriums for want of Sleep, being apply'd to the Forehead and Temples, 'tis excellent: The Leaf bruiſed and laid on the crown of the Head, ſtops Noſe-bleeding; and if you rub any place ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng with Nettle or Bee, it ſpeedily cures it.</p>
+               <p>
+                  <hi>Hounds-tongue</hi> groweth on Highway-ſides and un<g ref="char:EOLhyphen"/>der Hedges, is govern'd by <hi>Mercury,</hi> and is good for all Defluxions of Rheums on the Lungs or Stomach, Eyes or Teeth: The Root is uſed in Pills; the Juice boil'd in Hogs-lard is good to anoint the Head and preſerve the Hair from ſhedding; it cures ſhortneſs of Breath, Scalds, Piles, Ulcers, Wounds, <hi>&amp;c.</hi> it ſtops Humours from coming into Sores. <hi>Mizaldus</hi> ſays, that put into your Shoes, no Dog will bark at you.</p>
+               <p>
+                  <hi>Holly-tree</hi> groweth in Heaths and Gardens, and is under <hi>Saturn.</hi> The Berries are chiefly phyſical, and expel Wind greatly, ten or twelve of 'em eat ripe: They purge the Body from Phlegm or S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime, being eat freſh gather'd; but dry'd and pouder'd, they bind, and ſtop all Fluxes. A Decoction of the Bark and Leaf is good to cement broken Bones and Diſloca<g ref="char:EOLhyphen"/>tions. Some ſay the Branches defend any Houſe from Witchcraft.</p>
+            </div>
+            <div n="I" type="part">
+               <head>I</head>
+               <p>
+                  <hi>S. Johns-wort</hi> grows in Meadows and Paſtures, the Leafs are full of ſmall holes, and it's under the <hi>Sun</hi> and <hi>Leo.</hi> This is a moſt excellent Herb for Wounds, if you boil it in Whitewine and drink it, or make an Oil or Ointment of it, or a Bath or Lotion; tis very effectual in Bruiſes or Wounds, and ſtrengthens feeble Members, cureth Blood-ſpitting, biting of Serpents, Stone, Stoppage of Urine, Gout, Ague, Sciatica, Palſy, Falling-ſickneſs, <hi>&amp;c.</hi> By often drinking the Seed in pouder, it purges Choler, bruis'd or congeal'd Blood in the Stomach, and Blood-vomiting.</p>
+               <pb n="40" facs="tcp:58366:21"/>
+               <p>
+                  <hi>Ivy</hi> grows on old Stone-walls, it's under <hi>Saturn:</hi> The Flower boil'd in Claret, ſtops the Bloody-flux; The Berries taken pouder'd cure the Jaundice, Spit<g ref="char:EOLhyphen"/>ting of Blood, prevent Drunkenneſs, or any Plague, Infection, <hi>&amp;c.</hi> Drink the Berry pouder'd in White<g ref="char:EOLhyphen"/>wine, it cures the Stone, opens Obſtructions, provokes the Terms and Urine, eaſing Headach, Spleen, Va<g ref="char:EOLhyphen"/>pours, and Stitch, by heating the Leaves in Wine, and applying them to your Side or Head. The Leaf boil'd cures Ulcers, Wounds, Burns, Scalds, ſore Eyes, and is an excellent Remedy for a Surfeit, if you take the Decoction in the ſame Liquor you ſurfeited of.</p>
+               <p>
+                  <hi>Juniper</hi> groweth in Woods and Copſes, is under the <hi>Sun,</hi> hot in the third, dry in the firſt degree. It is an excellent Antidote againſt all Infections, reſiſt<g ref="char:EOLhyphen"/>ing the Plague and venomous Beaſts, opens the Uri<g ref="char:EOLhyphen"/>nary Paſſage and Stomach, curing ſhortneſs of Breath, Dropſy, Conſumption, Convulſion, Pain in the Belly and Side, Rupture, gives ſpeedy Delivery, ſtrengthens the Memory, clears the Sight, comforts the Brain, cu<g ref="char:EOLhyphen"/>reth Gout, Scurvy, Leproſy, Scab, Itch, and Piles; all this, and more, it performs by taking the Berries pouder'd in Wine. You may uſe the Decoction of the Berries for outward application.</p>
+            </div>
+            <div n="K" type="part">
+               <head>K</head>
+               <p>
+                  <hi>Kidney-wort</hi> grows on Stone and Mud-walls, is un<g ref="char:EOLhyphen"/>der <hi>Venus</hi> and <hi>Libra,</hi> and is good to cure Inflamation and preternatural Heat, to refreſh a hot Liver or lan<g ref="char:EOLhyphen"/>guiſhing Stomach and Bowels, if you drink the Juice or diſtill'd Water. The Herb apply'd outwardly hea<g ref="char:EOLhyphen"/>leth ſcorbutick Spots, red Faces, Pimples, and Inflama<g ref="char:EOLhyphen"/>tions; it taketh away Sciatica, Gout, Exulceration of Reins or Kidneys. The Decoction is a good Bath for Stone-pain and other inward Evils, as ſwell'd God. Neck, or Throat, Kings-Evil, <hi>&amp;c.</hi> either in Ointment or otherwiſe.</p>
+               <p>
+                  <hi>Knapweed</hi> groweth in Meadows and Fields, in un<g ref="char:EOLhyphen"/>der <hi>Saturn,</hi> dry and cold. 'Tis powerful in ſtopping Fluxes, bleeding at Noſe or Mouth, ſtays defluxion
+<pb n="41" facs="tcp:58366:21"/>of ſharp thin Humours on Stomach or Lungs, cureth Bruiſes by Falls, the Phthiſick, Sores, Cankers, Fi<g ref="char:EOLhyphen"/>ſtula's, ſore Throat, ſcabby Head, Quinzay; and this it doth by drinking the Herb boil'd in Whitewine, and applying it to the place, either by Decoction, Fomentation, or Ointment.</p>
+               <p>
+                  <hi>Knottgraſs</hi> groweth by Paths and Highways, is un<g ref="char:EOLhyphen"/>der <hi>Saturn,</hi> cold, dry, and binding. It ſtops Fluxes of the Blood, the Juice being drank, cureth Inflama<g ref="char:EOLhyphen"/>tion, Gangrene, Apoſthume, Fiſtula, Ulcer, Canker, Wounds, all Sores in the Privities of Men or Women, the Stone and Gravel, Stoppage of Urine, and Run<g ref="char:EOLhyphen"/>ning of the Reins.</p>
+            </div>
+            <div n="L" type="part">
+               <head>L</head>
+               <p>
+                  <hi>Ladies-Mantle</hi> is found by Wood-ſides and in Pa<g ref="char:EOLhyphen"/>ſtures; 'tis an Herb of <hi>Venus,</hi> allays Heat and Infla<g ref="char:EOLhyphen"/>mation, ſtopping Fluxes, Vomiting, Reds and Whites in Women or Maids, helps Ruptures, makes flagging Breaſts round and plump, the Decoction or diſtil'd Water drank, and the Herb outwardly apply'd; it al<g ref="char:EOLhyphen"/>ſo helps Conception, and prevents Miſcarriage: It is one of the beſt of Wound-herbs, if you waſh 'em with the Decoction and drink it: It mightily dryeth up ill Humours, ſtops a Flux, and cures old Sores.</p>
+               <p>
+                  <hi>Ladies-Thiſtle</hi> eat young makes an excellent Sallad that purges the Blood, if boil'd.</p>
+               <p>
+                  <hi>Lavender</hi> grows in Gardens, hot and dry in the 3d degree, and is under <hi>Mercury.</hi> A moſt powerful Herb it is, influencing the Brain with Heat, ſtrengthening the Memory, curing Pains of the Head that proceed from a cold Cauſe, and all Diſeaſes that ariſe thence, all Convulſions, Apoplexies, Palſies, and Falling-ſick<g ref="char:EOLhyphen"/>neſs; it fortifies the Stomach, freeth Liver and Spleen from Obſtructions, provokes the Courſes, and cureth beating of the Heart, taken either outwardly or in De<g ref="char:EOLhyphen"/>coction. <hi>Lavender</hi> and <hi>Roſemary</hi> made into Tea, and 15 or 20 drops of <hi>Sal Volatile</hi> and <hi>Spirit of Har<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhorn</hi> (each alike) put into half a pint of this Tea, ſo drank Morning, Noon, and Night, thins and cleanſeth the
+<pb n="42" facs="tcp:58366:22"/>Blood; ſo doth Oyſterſhells pouder'd and drank in Old Hock.</p>
+               <p>
+                  <hi>Lavender-Cotton</hi> is a Garden-herb, and under <hi>Mer<g ref="char:EOLhyphen"/>cury;</hi> 'tis much of the nature of other Lavender, re<g ref="char:EOLhyphen"/>ſiſting Poyſon and corrupt Humours, the biting of ve<g ref="char:EOLhyphen"/>nomous Beaſts, cures Running of the Reins, Whites, <hi>&amp;c.</hi> The Seed kills <hi>Worms</hi> in Belly or Stomach. By ba<g ref="char:EOLhyphen"/>thing with this Herb you may cure Scab or Itch.</p>
+               <p>
+                  <hi>Ladies-ſmock</hi> groweth near water-ſides or moiſt pla<g ref="char:EOLhyphen"/>ces, are under the <hi>Moon,</hi> and are much of the nature and efficacy of <hi>Watercreſſes,</hi> are good for the Stone and Scurvy, cauſe good Digeſtion, and ſtrengthen the Stomach.</p>
+               <p>
+                  <hi>Lettuce</hi> groweth in Gardens, much uſed in Sallads, and is under the <hi>Moon,</hi> cold and moiſt. It alays Heat and Choler of the Stomach, cooleth the Blood, Spirits and Brain, quench Thirſt, cure the Headach, encreaſe Milk, abate Luſt, <hi>&amp;c.</hi> but is hurtful for thoſe whoſe Lungs are ulcerated, ſpit Blood, are ſhort-winded or very cold ſtomach'd.</p>
+               <p>
+                  <hi>Leeks</hi> in Pottage is nouriſhing Food, good againſt Obſtructions of the Ureters, Short-windedneſs, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Lilly,</hi> there are three ſorts, <hi>Lilly of the Valey, Wa<g ref="char:EOLhyphen"/>ter-Lilly,</hi> and <hi>White-Lilly:</hi> The Lilly of the Valey is under <hi>Mercury,</hi> the other two are under the <hi>Moon.</hi> Water-Lillies cool Inflamations, heat of Agues, both outwardly and inwardly uſed, help ailments of the Head; the Root and Seed ſtop fluxes of Blood or Hu<g ref="char:EOLhyphen"/>mours, either of the Womb or Wounds, ſtay Running of the Reins, and hinder Venery: The Decoction be<g ref="char:EOLhyphen"/>ing drank in Wine or Water, cures Freckles, Morphew and Sunburn in the Face. The Diſtillation is like<g ref="char:EOLhyphen"/>wiſe good for all the Diſtempers above.</p>
+               <p>
+                  <hi>Lillies of the Valey</hi> ſtrengthen the Memory, cure all Inflamations, Pin or Web in the Eyes, alſo the Palſy, Apoplexy, Gout, and loſs of Speech. The Leaf-dry'd and ſnuffed up, cleanſes the Head.</p>
+               <p>
+                  <hi>Lillies (White)</hi> reſiſt Poyſon, cure Fevers, Infecti<g ref="char:EOLhyphen"/>ons, Peſtilence, ſcald Heads, Ulcers, Burns, and Scalds.
+<pb n="43" facs="tcp:58366:22"/>It is good for all the before-mention'd Diſtempers, if uſed either in Decoction, Juice, diſtill'd Water, or in Ointment.</p>
+               <p>
+                  <hi>Liquorice</hi> grows in Fields and Gardens, (the beſt groweth in <hi>England</hi>) is under <hi>Mercury,</hi> and is good againſt a conſumptive Cough, boil'd with other things or by itſelf: It cures ſhortneſs of Breath, Pthſick, Hoarſeneſs, and all Diſeaſes of the Breaſt, Lungs and Reins; it's good againſt the Stone and Gravel, heals Ulcers, Strangury, and Heat of Urine. The Pouder blown into the Eye, is good for Pin, Web, or Diſtil<g ref="char:EOLhyphen"/>lation. Spaniſh Liquorice ſteep'd in Water and drank quenches Thirſt, and the Pouder put into a Glaſs of Water, makes it reſemble brown Ale.</p>
+               <p>
+                  <hi>Liverwort</hi> groweth on the Ground flat, and among Water; it's under <hi>Jupiter</hi> and <hi>Cancer,</hi> and is good for all Diſeaſes of the Liver, cleanſing and cooling it. It cureth the yellow Jaundice, is uſed in Diet-drink to cool the Reins, and help the Running thereof; alſo female Diſeaſes it wonderfully helps, and Tettars, Itch, Ringworms, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Looſe-ſtrife</hi> or <hi>Willow-herb</hi> groweth by Water-ſides, and in moiſt Ground, is under the Moon, and is ex<g ref="char:EOLhyphen"/>cellent for Wounds, ſtops Bleeding in any part, cureth the Bloody and all Fluxes, being drank by Decoction. It cures ſore Mouths by gargling, alſo Sores in Privi<g ref="char:EOLhyphen"/>ties. In Fenny Countries they burn it, to kill Vermin.</p>
+               <p>
+                  <hi>Love-age</hi> is a Garden-plant, and grows large, it is under the <hi>Sun</hi> in <hi>Taurus,</hi> hot in the 3d, dry in the 2d degree. 'Tis a great opener and digeſter, power<g ref="char:EOLhyphen"/>fully provokes the Terms and Urine. If you take half a dram of the Root pouder'd in Whitewine, it heats a cold Stomach, helps Digeſtion, eaſeth Gripes, Cholick, and Wind, reſiſts Poyſon, Infection, and the Plague, cures Agues, Quinzay, ſore Throats, if you gargle the Decoction; it alſo helps Pleuriſie. The Juice dropt into the Eye, helps the Sight and Red<g ref="char:EOLhyphen"/>neſs: Spots or Freekles it cures, if you waſh with it.</p>
+               <p>
+                  <hi>Lungwort</hi> groweth on Oak-trees, is under <hi>Jupiter,</hi>
+                  <pb n="44" facs="tcp:58366:23"/>and cures a Cough, Shortneſs of Breath, Wheaſing. If boil'd in Wine or Water, it cures Ulcers of Mouth, Throat, and Privities of both Sexes.</p>
+            </div>
+            <div n="M" type="part">
+               <head>M</head>
+               <p>
+                  <hi>Madder</hi> groweth in Gardens and Fields ('tis uſed by Dyers) and is under <hi>Mars.</hi> It is of an opening nature, leaving a ſtrengthening quality behind. It opens all Obſtructions of Spleen, Gall, Liver, Reins, or Womb. 'Tis excellent to cure yellow Jaundice or black, Palſie, Gout, Melancholy, <hi>&amp;c.</hi> alſo Bruiſes in<g ref="char:EOLhyphen"/>ward and outward, if you boil and drink it in Water or Wine: The Fume is good for Women to ſit over that want their Terms; it likewiſe clears the Skin of all Spots or Morphew.</p>
+               <p>
+                  <hi>Maiden-hair;</hi> there are two ſorts, <hi>white</hi> and <hi>golden,</hi> and grow on Stone-walls, both under <hi>Mercury,</hi> but temperate, and much uſed in pectoral Decoctions, hel<g ref="char:EOLhyphen"/>ping old Coughs, ſhortneſs of Breath, yellow Jaun<g ref="char:EOLhyphen"/>dice, provoke the Terms and Urine, looſen the Belly, ſtay Fluxes and Bleeding, ſtrengthen the Liver, puri<g ref="char:EOLhyphen"/>fie the Blood, and ſtop falling off the Hair, the Head being waſh'd with the Decoction.</p>
+               <p>
+                  <hi>Marſhmallows</hi> grow in ſalt Marſhes, the common grow in all Fields, are under <hi>Venus,</hi> and open the Bowels and Reins; being boil'd in Broth or other<g ref="char:EOLhyphen"/>wiſe, are good in all Diſeaſes of Urine, Reins, and Bladder, hot Agues, Gripes, Cholick, Pleuriſy, Exco<g ref="char:EOLhyphen"/>riation, Phthiſick, Falling-ſickneſs; helps Women to eaſie Travail, taken either in Juice, Syrup, Decoction or Ointment: It is good againſt ſtinging of Bees or Waſps, Poyſon, Inflamation, Sores, St. Anthony's Fire, Roughneſs of the Skin, and Baldneſs, if uſed in De<g ref="char:EOLhyphen"/>coction or Ointment. It's good againſt Cramp, Kings-Evil, Convulſions, Chincough, Sunburn, Bruiſes, and all Pain and Aches. A Perſon I know troubled with the Cholick drinks it in Watergruel every Morning, and finds it beneficial.</p>
+               <p>
+                  <hi>Maple-tree</hi> groweth in Fields, and is under <hi>Jupi<g ref="char:EOLhyphen"/>ter.</hi> A Decoction of the Leaf and Bark ſtrengthens
+<pb n="45" facs="tcp:58366:23"/>the Liver and Spleen, opening their Obſtructions, pu<g ref="char:EOLhyphen"/>rifies the Blood, and cures ſharp Pleuretick Pain in the Sides, and the Cholick.</p>
+               <p>
+                  <hi>Marjoram,</hi> both ſorts grow in Gardens, are under <hi>Mercury.</hi> The <hi>Sweet</hi> is very good for the Head, and to comfort the Brain; taken any way, it ſtrengthens the Stomach, opens Obſtructions of Liver and Spleen. Both ſorts cure the Dropſy, Cholick, Jaundice, Scur<g ref="char:EOLhyphen"/>vy, and all cold Afflictions, ſuch as Convulſion, Palſy, Deafneſs, if drank in Tea, diſtill'd Water, or Juice; the Pouder is good Snuff; chew'd, it draws Phlegm.</p>
+               <p>
+                  <hi>Marigolds</hi> grow in Gardens, are under the <hi>Sun,</hi> and the Flowers ſtrengthen the Heart, reſiſt Plague, Fevers, Meaſles, Small-pox, Swellings, and Inflamations, being much uſed, are good in Plaiſters, and ſo is the Water for all the Ails afore-mention'd.</p>
+               <p>
+                  <hi>Maudlin</hi> groweth in Gardens, 'tis under <hi>Jupiter,</hi> and ſtrengthens the Liver, reſiſts Corruption, purifies the Blood, much the ſame with <hi>Coſtmary.</hi>
+               </p>
+               <p>
+                  <hi>Maſterwort</hi> grows in Gardens, is under <hi>Mars,</hi> hot and dry in the 3d degree. The Root is good in cold ailments of the Stomach, preventing Rheums if boil'd in Whitewine, curing Phthiſick, Fits of the Mother, Dropſy, Falling-ſickneſs, Green-wounds, Gout, Ulcers, putrified Sores, <hi>&amp;c.</hi> cauſeth Sweat, reſiſts Poyſon, pro<g ref="char:EOLhyphen"/>vokes Urine and the Courſes, and expels a dead Child.</p>
+               <p>
+                  <hi>Medlar-tree</hi> groweth in Orchards, is under <hi>Saturn,</hi> cold, dry, and binding. When the Fruit is rotten it ſtrengthens the retentive Faculty, ſlayeth all Fluxes in Men, Women, or Children; the Leaves boil'd do the ſame. The Fruit eat by breeding Women, ſtayeth their longing, and prevents Miſcarriage. A Decoction of the Fruit and Leaves are good for a Woman to ſit over who is troubled with too much flooding; alſo hot apply'd to the Stomach, it prevents Vomiting or Loathing. The Stones pouder'd and drank in White<g ref="char:EOLhyphen"/>wine, break and expel Stone and Gravel.</p>
+               <p>
+                  <hi>Melilot</hi> grows in Fields, is under the <hi>Sun,</hi> and is uſeful in a Poultice, Oil, Ointment, Plaiſter, Fomen<g ref="char:EOLhyphen"/>tation,
+<pb n="46" facs="tcp:58366:24"/>
+                  <hi>&amp;c.</hi> mollifying hard Tumors, Swellings, and Inflamations: Apply'd outwardly to any griev'd Part, it giveth Eaſe: It hinders eating Ulcers ſpreading. Its Flowers and <hi>Camomile</hi> are much of the ſame Na<g ref="char:EOLhyphen"/>ture, and are uſed in Glyſters to expel Wind: The Juice dropt in the Eye, taketh away Films, clearing the Eyeſight. The Decoction drank, preſerves from the Apoplexy, and cures Palſie and Falling-ſickneſs.</p>
+               <p>
+                  <hi>Mint</hi> groweth in Gardens, and is under <hi>Venus,</hi> hot and dry in the 3d degree. It ſtrengthens the Stomach, ſtays Vomiting and Hiccup, reſiſts-Poyſon, is good in Stone, Gravel, Spleen, <hi>&amp;c.</hi> maketh a ſweet Breath, and expels Wind.</p>
+               <p>
+                  <hi>Miſſeltoe</hi> is under the <hi>Sun,</hi> hot and dry, of a very penetrating nature both Leaf and Berry; the Turpen<g ref="char:EOLhyphen"/>tine of it is excellent to ſoften hard Tumors and Im<g ref="char:EOLhyphen"/>poſthumes; and if either be hung about the Neck, it cureth Witchcraft. The Berries are good for Diſea<g ref="char:EOLhyphen"/>ſes of the Head, cauſe ſneezing, and make Birdlime.</p>
+               <p>
+                  <hi>Moneywort</hi> grows in moiſt Ground, is under <hi>Venus,</hi> and is dry and binding, ſo good to ſtay all Fluxes in Men or Women, Lask, bleeding at Noſe, Ulcers, <hi>&amp;c.</hi> taken inwardly or outwardly.</p>
+               <p>
+                  <hi>Moonwort</hi> grows in dry Ground, where much Graſs is; 'tis under the <hi>Moon,</hi> cold, dry, and binding; the Decoction ſtops Fluxes of Blood, Terms, and Vomi<g ref="char:EOLhyphen"/>ting, healeth broken Bones, green Wounds, <hi>&amp;c.</hi> Some ſay this Herb will open Locks, unſhoe Horſes, with many ſuchlike Tricks.</p>
+               <p>
+                  <hi>Moſs;</hi> there are ſeveral ſorts, all under <hi>Saturn,</hi> of a dry binding quality. <hi>Oak-moſs</hi> is moſt binding, it ſtops Fluxes, Vomiting, Bleeding, and cures Headach and Dropſy.</p>
+               <p>
+                  <hi>Motherwort</hi> grows in rich Ground and Gardens, is under <hi>Venus,</hi> and makes a cheerful Countenance; there's none better to drive out Vapours and Hypo<g ref="char:EOLhyphen"/>chondriack Melancholy; it ſettles the Womb after Labour, curing Trembling and Swooning, if the De<g ref="char:EOLhyphen"/>coction be drank in Wine ſome time. A dram of the
+<pb n="47" facs="tcp:58366:24"/>Pouder drank in Wine cauſes ſpeedy Labour, provokes Urine and the Terms, cureth Cramp, cleanſeth the Stomach of Phlegm, and may be uſed in Syrup or Conſerve. It killeth Worms.</p>
+               <p>
+                  <hi>Mouſe-ear</hi> grows in Ditches and Banks, is under the <hi>Moon,</hi> and the Juice or Decoction drank cures the Jaundice, Gripes, Stone, Phthiſick, Dropſy, Bloody<g ref="char:EOLhyphen"/>flux, Ruptures, Gout, Cankers, and any ſpreading Sore or Ulcer.</p>
+               <p>
+                  <hi>Mugwort</hi> groweth in Fields and Highways, is un<g ref="char:EOLhyphen"/>der <hi>Venus,</hi> and is good for Womens Obſtructions, pro<g ref="char:EOLhyphen"/>vokes Birth, and breaks the Stone, if they ſit over the Decoction. If taken in Wine or Syrup, it cures the Kings-Evil, Sciatica, Cramp, and Wearineſs.</p>
+               <p>
+                  <hi>Mullein</hi> groweth in Lanes and Highway-ſides, is ſharp, and whitiſh or woolly-leaf'd, is under <hi>Saturn,</hi> and opens the Stomach, Womb and Reins much, yet it ſtops Lask and Flux. A Decoction gargled healeth the Toothach.</p>
+               <p>
+                  <hi>Mulberry-tree</hi> groweth in Gardens or Orchards, and is under <hi>Mercury.</hi> The Fruit is cooling and opening if ripe, the unripe binding, eſpecially if dry'd and pouder'd, it ſtayeth Lasks and Womens Courſes, Blee<g ref="char:EOLhyphen"/>ding, Sore Throat and Mouth, Piles, and Toothach.</p>
+               <p>
+                  <hi>Muſtard</hi> groweth in Gardens and Corn-fields, hot and dry in the 3d degree, and is under <hi>Mars.</hi> 'Tis excellent for cold Stomachs and cold Diſeaſes, and as bad for the hot and cholerick; it reſiſts Poyſon, and ſtrengthens the Heart; 'tis excellent for the Falling-ſickneſs, Lethargy, Sneezing, and prevents an Ague, Sciatica, ſtoppage of Urine, Toothach, Bruiſes, Mor<g ref="char:EOLhyphen"/>phew; by gargling it preſerves the Palate, Palſie of the Tongue: By ſteeping it in Ale and drinking it, the Louzy-Evil and Dropſy are cured.</p>
+               <p>The <hi>Hedge-Muſtard</hi> groweth in Hedges, is under <hi>Mars,</hi> and is much of the ſame Nature, but reckon'd more powerful in Diſeaſes of the Breaſt and Lungs.</p>
+               <p>
+                  <hi>Nailwort</hi> grows in gravelly places and Stone-walls, and is under <hi>Venus,</hi> being uſed chiefly for Diſeaſes of
+<pb n="48" facs="tcp:58366:25"/>the Fingers and Nails, as Whitloes, Feloas, Im<g ref="char:EOLhyphen"/>poſthumes, Wheals, &amp;c.</p>
+               <p>
+                  <hi>Nepmint</hi> groweth in Gardens, is under <hi>Venus;</hi> be<g ref="char:EOLhyphen"/>ing hot, it provokes the Terms, if drank in Wine or other things: The Juice drank in Wine is good for a Cold, Bruiſe, Short-breath, Cramp, and Vertigo; it drys up Scabs if taken in Decoction.</p>
+               <p>
+                  <hi>Nettles</hi> grow in moſt places, are under <hi>Mars,</hi> and the young Tops boil'd in Broth cleanſe the Stomach, Blood, and Reins of groſs phlegmatick Humors; they are excellent for Wheaſing, Short-breath, Pleuriſie, ſtoppage of Urine, Gravel, and Stone, provoke Terms, reſiſt Poyſon of mad Dogs or Serpents. The Seed drank in Wine cureth Leproſie, Poyſon of Henbane, Nightſhade, <hi>&amp;c.</hi> Bleeding is ſtopt by ſmelling to the Herb. A Decoction cureth Ulcers, Itch, Scab, Scia<g ref="char:EOLhyphen"/>tica, <hi>&amp;c.</hi> laying ſtinging-Nettles to Arm or pain'd places Morning and Night. 'Tis good againſt Rheu<g ref="char:EOLhyphen"/>matick Pains. The Seed put among a Horſe's Food 'twill fatten him.</p>
+               <p>
+                  <hi>Nightſhade</hi> groweth under Walls, is under <hi>Saturn,</hi> and is excellent to cool Inflamations of the Eyes, the Shingles, Ringworms, Gout, immoderate Fluxes, <hi>&amp;c.</hi> if made into an Oil, or if made into Ointment. 'Tis not to be taken inwardly, becauſe 'tis poyſonous.</p>
+            </div>
+            <div n="O" type="part">
+               <head>O</head>
+               <p>
+                  <hi>Oak-tree</hi> grows in Woods and Fields, is under <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> dry and binding. The Bark, Leafs, and Cups, either decocted, diſtill'd, or pouder'd, ſtops Fluxes, Blood-ſpitting, Vomiting, ſhedding Seed, and healeth Ulcers. The Cups pouder'd and taken in Wine, pro<g ref="char:EOLhyphen"/>voke Urine, break the Stone, heals Sores, <hi>&amp;c.</hi> The Water found in a hollow Oak is very good in Ulcers and ſpreading Sores.</p>
+               <p>
+                  <hi>Oats,</hi> being fry'd with Bay-ſalt and laid to the Side, cures Stitches and other Pains. The Meal is often uſed in Poultices to cure Leproſie, Fiſtula in the Fun<g ref="char:EOLhyphen"/>dament, Impoſthumes, diſſolve hard Tumors, and take from the Face Freckles and Spots.</p>
+               <pb n="49" facs="tcp:58366:25"/>
+               <p>
+                  <hi>One-blade</hi> grows in ſhady places, is under the <hi>Sun,</hi> and is good againſt Plague or Poyſon, alſo for Wounds. The Root taken in Wine and Vinegar, of each half a dram, and ſweating after it, defends the Heart, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Onions</hi> grow in Gardens, are under <hi>Mars,</hi> hot and dry in the 3d degree, but very attractive and draw<g ref="char:EOLhyphen"/>ing; being bruis'd and apply'd, they cure a Burn or Scald. A large Onion being ſteep'd in Whitewine all Night and drank, gives preſent Eaſe in the Stone.</p>
+               <p>
+                  <hi>Orpine</hi> groweth in Gardens, Fields, and Woods; is under the <hi>Moon,</hi> and good in all Wounds, Excoria<g ref="char:EOLhyphen"/>tion of the Bowels, Fluxes, Inflamations, Ruptures, Scalds, Burns, <hi>&amp;c.</hi> the Decoction being drank, or made into Oil, Poultice, or Ointment.</p>
+            </div>
+            <div n="P" type="part">
+               <head>P</head>
+               <p>
+                  <hi>Parſley</hi> grows in Gardens, is under <hi>Mercury,</hi> hot and opening; it ſtrengthens the Stomach, provokes Urine, opens all Obſtructions of Liver and Spleen, diſſolves Stone and Gravel, reſiſts Poyſon, cures Cho<g ref="char:EOLhyphen"/>lick, Jaundice, Dropſy, Gripes, <hi>&amp;c.</hi> by taking the Seed in Wine. There is a <hi>wild Parſley,</hi> which has much the ſame Nature and Vertues.</p>
+               <p>
+                  <hi>Parſnip</hi> (Garden and Wild) is under <hi>Venus,</hi> and is a great nouriſher, but windy, and createth Seed, pro<g ref="char:EOLhyphen"/>vokes Urine, cleanſeth the Reins, for which the wild is beſt, expels Wind in the Bowels or Stomach, and provokes Urine. The Seed is more efficacious than the Root.</p>
+               <p>
+                  <hi>Pellitory of Spain</hi> grows in Gardens, is under <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> and is one of the beſt Purgers of the Brain that is: An ounce of the Juice taken in Muskadel an hour before an Ague comes, drives it away aſſuredly at the ſecond or third taking. The Herb or Root chew'd, or the Juice ſnufft, cures Pain in Gums or Teeth, and hinders Diſtillation on the Lungs; 'tis good in a Le<g ref="char:EOLhyphen"/>thargy, Falling-ſickneſs, Gout, Sciatica, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Peach-tree</hi> groweth in Gardens, is under <hi>Venus,</hi> and is of a cooling quality. The Flower and Leaf made into a Syrup, is a very good Purge for Children and
+<pb n="50" facs="tcp:58366:26"/>ſuch as have the Jaundice: The Flowers pouder'd and ſtrew'd on Wounds, ſtops Bleeding; laid to the Belly, it kills Worms; the Kernels of Peach-ſtones eaſeth Cholick and Gripes.</p>
+               <p>
+                  <hi>Pear-tree</hi> grows in Orchards, is under <hi>Venus,</hi> and the Fruit looſens the Belly. The four are cooling and binding, and if bruis'd and apply'd to a green Wound, they cure it.</p>
+               <p>
+                  <hi>Peaſe</hi> are excellent Food, but windy. When about a hand high, clip the green Stalks and boil 'em, they eat well, and in Milk they eat like Peaſe-pottage.</p>
+               <p>
+                  <hi>Pepperwort</hi> groweth in Fields, is under <hi>Mars,</hi> and is good for a Gout in the Joints, Sciatica, <hi>&amp;c.</hi> The Juice drank in Whitewine procures ſpeedy Delivery.</p>
+               <p>
+                  <hi>Periwinkle</hi> grows in Orchard and Woods, is under <hi>Venus,</hi> and cauſeth Love if a Man and Woman eat it together: If decocted in Wine and drank, it ſtoppeth Bloody-flux and Terms, for 'tis very binding.</p>
+               <p>
+                  <hi>S. Peter's Wort</hi> grows in Woods, is a Plant of the <hi>Sun,</hi> and of the Nature and Vertue of <hi>S. Johns-wort.</hi>
+               </p>
+               <p>
+                  <hi>Pimpernel</hi> grows in Meadows, and among Corn, is under the <hi>Sun,</hi> and will draw Thorns out of Fleſh, and cleanſe the place.</p>
+               <p>
+                  <hi>Pine (Ground-)</hi> groweth in Fields, is under <hi>Mars,</hi> but rarely found in <hi>England.</hi> The Decoction in Wine is good for the Strangury, it opens Obſtructions of the Liver, Spleen, or Courſes, expels the dead Child and Afterbirth, cures the Poyſon of venomous Beaſts, Gout, Dropſy, Ulcers, and old Coughs, by Decoction, Syrup, or diſtill'd Water. 'Tis dangerous for Women with Child.</p>
+               <p>
+                  <hi>Plantane</hi> groweth in Highways, is under <hi>Venus,</hi> and is cold and dry in the 2d degree. 'Tis good to ſtay Fluxes, Blood-ſpitting, green Wounds, Conſum<g ref="char:EOLhyphen"/>ption, Phthiſick, Ulcerated Lungs, Dropſy, Falling-ſickneſs, Bites of mad Dogs, and drink it. Drank in Tea ſeveral Mornings, it's good againſt the Plague.</p>
+               <p>
+                  <hi>Pellitory of the Wall</hi> grows by Fields and on Walls,
+<pb n="51" facs="tcp:58366:26"/>is under <hi>Mercury,</hi> and if decocted in Whitewine, it cures the Stone, and is good for an old Cough, and ſhortneſs of Breath. The Juice provokes Urine, eaſes Pain in the Back and Sides, heals Scab and Ulcer, and cures the Gout.</p>
+               <p>
+                  <hi>Peony-royal</hi> groweth in Gardens, but under <hi>Venus,</hi> and is very hot. It cutteth Phlegm, diſperſes groſs Humors, warms a cold Stomach, openeth Obſtructions of Reins and Liver, provokes the Terms, brings forth the dead Child and Afterbirth, helps the Gout, keeps from fainting and vomiting; it cures Cramp, Dropſy, Jaundice, Pain of the Head, if you drink the diſtill'd Water or the Decoction in Tea; wrap the freſh Leaf in a Cloth and lay in a Bed, it drives away Fleas. A Tea made of it, ſweetned with Honey, is excellent for the Phthiſick and a Cold.</p>
+               <p>
+                  <hi>Peony</hi> grows in Gardens, and is under the <hi>Sun.</hi> There are two ſorts, male and female; the male is proper for Men, the other for Women. The Root is very good againſt Falling-ſickneſs, Convulſions, Fits of the Mother, Nightmare, or melancholy Dreams, if taken pouder'd in Sack, Whitewine, Blackcherry Wa<g ref="char:EOLhyphen"/>ter, or a Syrup made of the Flowers.</p>
+               <p>
+                  <hi>Plumbs</hi> grow in Orchards, and are under <hi>Venus:</hi> There are ſeveral ſorts, the ſowre are cold, the ſweet hot and looſening: To dry Rheums and heal Ulcers the Leafs make a good Gargle for the Mouth.</p>
+               <p>
+                  <hi>Polipody of the Oak</hi> grows on ſtumps of the Tree, is under <hi>Saturn,</hi> but what grows upon the Tree is beſt. It purgeth Melancholy, cures Quartan Agues, Cholick, Spleen, Cough, Polipus, weakneſs of Lungs. The Root beat ſmall, cures Chaps in Finger or Toe.</p>
+               <p>
+                  <hi>Poplar-tree</hi> groweth in moiſt Woods, is under <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> both ſorts. The white cures the Sciatica, if the Pouder of the Bark be drank in Wine; and the Juice of the Leaf dropt in the Eye, clears the Sight. The black is more cooling. A Juice that drops from the hollow of this Tree cureth Warts and Itch. The Ointment call'd <hi>Populeon</hi> is good againſt Inflamations.</p>
+               <pb n="52" facs="tcp:58366:27"/>
+               <p>
+                  <hi>Poppy</hi> groweth in Gardens and wild among Corn, is under the <hi>Moon,</hi> and is of a cold nature, hindering hot Rheums from diſtilling on the Lungs, cauſe Sleep, cures Hoarſneſs, Surfeit, Falling-ſickneſs, and Pleuri<g ref="char:EOLhyphen"/>ſie: Outwardly apply'd, it cures Inflamations.</p>
+               <p>
+                  <hi>Purſlain</hi> grows in Gardens, is an Herb of the <hi>Moon,</hi> and is very cooling in hot Diſtempers to quench a Thirſt: It ſtops all Fluxes, Vomiting, and Cough; it cures Ulcers in the Privities, Redneſs of the Eyes, St. Authony's Fire, Burns and Scalds, faſtens Teeth, and cures both Gout and Cramp.</p>
+               <p>
+                  <hi>Primroſes</hi> grow in Fields, are under the <hi>Moon,</hi> and inwardly or outwardly taken, are good for Wounds.</p>
+               <p>
+                  <hi>Pri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et</hi> grows in Woods, is under the Moon, and is good to waſh ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re Mouths and Eyes, Inflamations, and any part afflicted with Heat.</p>
+               <p>
+                  <hi>Quince-tree</hi> groweth in Orchards, is under <hi>Satur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and of a binding quality; it creates an Appetite, ſtays Fluxes and Vomiting; it cureth Poyſon, Cho<g ref="char:EOLhyphen"/>ler, and Plague-ſores, being eat, or in Syrup.</p>
+            </div>
+            <div n="R" type="part">
+               <head>R</head>
+               <p>
+                  <hi>Radiſhes</hi> grow in Gardens, are under <hi>Mars,</hi> hot and dry in the 3d degree, but are rather for Sauce than Nouriſhment; the Tops boil'd young, eat like Spinage. They provoke Urine, and the Rhine ſcra<g ref="char:EOLhyphen"/>ped and ſteep'd in Whitewine, is good againſt Gravel and Stone.</p>
+               <p>
+                  <hi>Radiſh (Horſe-)</hi> groweth in Gardens, and is under <hi>Mars.</hi> The Juice opens the Stomach, is good againſt Worms, Scurvy, Gravel, Stone, and Gout, provokes the Terms and Urine, and whets the Appetite.</p>
+               <p>
+                  <hi>Ragwort</hi> groweth in Paſtures, is under <hi>Venus,</hi> and is a great cleanſer and digeſter. The Decoction cures Ulcers and ſore Mouths, if waſh'd therewith: The Juice is good for the ſame.</p>
+               <p>
+                  <hi>Rape,</hi> boil'd and eat young with Bacon, is whol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſome and pleaſant Food.</p>
+               <p>
+                  <hi>Rattle-graſs</hi> (two kinds, red and yellow) grows in Woods, is under the Moon, and is good in Fiſtula's
+<pb n="53" facs="tcp:58366:27"/>and Ulcers, is binding, and ſtayeth Courſes, being de<g ref="char:EOLhyphen"/>cocted in Red-wine. The yellow is good againſt a Cough; if injected into the Eye, draws out Films.</p>
+               <p>
+                  <hi>Reſtharrow</hi> grows in plow'd Land, is under <hi>Mars,</hi> and very opening; it helpeth ſtoppage of Urine, the Stone and Gravel, alſo a Rupture. Boil'd in Vinegar, it cures Toothach, Ulcers, and opens Obſtructions.</p>
+               <p>
+                  <hi>Rocket (Winter-)</hi> is under <hi>Mars,</hi> grows in Gardens, and is ſeldom eat alone, in regard it fumeth into the Head, and cauſeth Ach and Pain: It exciteth Luſt, helps Digeſtion, provokes Urine, cureth Bites of ve<g ref="char:EOLhyphen"/>nomous Beaſts. Uſed outwardly, it clears the Face. This and Lettuce together is good for the Heart, Li<g ref="char:EOLhyphen"/>ver, and Brain.</p>
+               <p>
+                  <hi>Roſes</hi> white, red, and damask; the red are under <hi>Jupiter,</hi> the damask under <hi>Venus,</hi> and the while un<g ref="char:EOLhyphen"/>der the Moon. The Juice when freſh gather'd pur<g ref="char:EOLhyphen"/>geth Choler; but the damask are moſt purging, and the white and red moſt cooling, binding, and drying. Being dry'd, they are excellent Cordials, eſpecially the red, and are good for Headach, inflam'd Eyes, Blood-ſpitting, Heat, the Terms in Women, and O<g ref="char:EOLhyphen"/>verflowings in Men: All which, and more, is effect<g ref="char:EOLhyphen"/>ed by the Decoction, Water, Conſerve, or Syrup.</p>
+               <p>
+                  <hi>Roſa Solis</hi> or <hi>Sun-dew</hi> groweth in moiſt places, is under the <hi>Sun,</hi> and is excellent to prevent and cure Conſumptions, therefore commonly diſtill'd in Spirit of Wine with other Ingredients. It helps ſhortneſs of Breath, Rheums, Ulcers of the Lungs, Palpitation of the Heart, and cheers it.</p>
+               <p>
+                  <hi>Roſemary</hi> groweth in Gardens, is under the <hi>Sun,</hi> and is excellent for cold Rheum diſtilling from the Head, by drying it up and ſtrengthening the Brain and Stomach: 'tis prevalent againſt Paſſion, Falling-ſickneſs, Toothach, weak Memory, dimn Sight, ſtink<g ref="char:EOLhyphen"/>ing Breath, Plague, Jaundice, Deafneſs, Cold, Cough, and Conſumption; it matches any thing.</p>
+               <p>
+                  <hi>Rhuharb</hi> grows in Gardens, is under <hi>Mars,</hi> and not inferior to that of <hi>China.</hi> There are three ſorts,
+<pb n="54" facs="tcp:58366:28"/>all wholſome in Phyſick, and very ſafely purge Me<g ref="char:EOLhyphen"/>lancholy and Phlegm, leaving a binding quality, for that reaſon reckon'd good in a Flux; it purifies the Blood, cureth Ulcers, Jaundice, Stoppage of Urine, Kings-Evil, Dropſy, Gout, and Swelling in the Head.</p>
+               <p>
+                  <hi>Rue,</hi> both ſorts grow in Gardens, are under the <hi>Sun,</hi> and are excellent againſt the Plague, Poyſon, and Cholick, provoke Urine and Courſes, cure Agues, abates Venery, <hi>&amp;c.</hi> Stamp'd and apply'd, it helpeth ſwell'd Teſticles, Pain of the Stomach or Fars, Pim<g ref="char:EOLhyphen"/>ples, Ulcers of Head or Noſe, and maketh lean.</p>
+               <p>
+                  <hi>Ruſhes</hi> grow in Fields, are under <hi>Saturn,</hi> but cold, dry, and binding: They ſtay Flux and Whites, cauſe Sleep, and eaſe Headach, but are ſo little valued for Phyſick, that they are — <hi>Not worth a Ruſh.</hi>
+               </p>
+               <p>
+                  <hi>Rye</hi> in under <hi>Venus,</hi> is more phyſical than Wheat, and the Bread or Leaven of it breaks Impoſthumes, Swellings or Boils in any part of the Body.</p>
+            </div>
+            <div n="S" type="part">
+               <head>S</head>
+               <p>
+                  <hi>Saffron</hi> grows in Fields, is under the Sun, and is one of the beſt Cordials in the World. It reſiſteth all Infections, ſtrengthens the Heart, is good againſt Poy<g ref="char:EOLhyphen"/>ſon and bad Air, if a little be given in Wine, Milk, Ale, or Beer; much is hurtful, becauſe of its great heat: It helps breathing, quickens the Brain, cureth Conſumption, Meaſles, Small-pox, and Jaundice. The Roots of all <hi>Crocus's</hi> are of the nature of <hi>Hermodactyls,</hi> that is, the Roots of Saffron; it purgeth Phlegm.</p>
+               <p>
+                  <hi>Satirian</hi> grows in Meadows, but there are diverſe ſorts, 'tis under <hi>Venus,</hi> hot and moiſt: The Root ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up Luſt; if they are put in Water, thoſe that ſink are good, but thoſe that ſwim bad. If bruis'd and laid to the Kings-Evil, it helps.</p>
+               <p>
+                  <hi>Sage</hi> groweth in Gardens, is under <hi>Jupiter,</hi> and reſiſts the malignity of any Food eaten with it, puri<g ref="char:EOLhyphen"/>fieth the Blood, drys up phlegmatick Humors, and is good for the Liver. Decocted, it provokes Urine; it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leanſeth Ulcers and Sores, helps Conception, hinders Miſcarriage, prevents Blood-ſpitting, Headach, Lethar<g ref="char:EOLhyphen"/>gy,
+<pb n="55" facs="tcp:58366:28"/>Palſie, Hoarſneſs, Cough, Flux, and biting of ve<g ref="char:EOLhyphen"/>nomous Creatures. Wood-Sage is of the ſame vertue, but is chiefly uſe in Decoction for the French Pox.</p>
+               <p>
+                  <hi>Saſſafras,</hi> ſee <hi>Ague-tree.</hi>
+               </p>
+               <p>
+                  <hi>Solomon's Seal</hi> groweth in Woods and other places, 'tis good in all Wounds, old Sores or Bruiſes, inward or outwardly taken; it helps Fluxes, Bleeding, Run<g ref="char:EOLhyphen"/>ning of the Reins, cures broken Bones or Diſlocations in man or Beaſt, and beautifies the Face.</p>
+               <p>
+                  <hi>Sea-holly</hi> grows about the Sea-coaſt, is under <hi>Venus,</hi> and encreaſes Seed much, being of a hot and moiſt nature. The Root boil'd in Whitewine opens Ob<g ref="char:EOLhyphen"/>ſtructions of Liver and Spleen, and cures yellow Jaun<g ref="char:EOLhyphen"/>dice, Cholick, Dropſy, French Pox, Stone, Kings-Evil, Agues, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Samphire</hi> grows on Rocks, is under <hi>Jupiter,</hi> and expels Urine, Gravel, Stone, and opens Obſtructions of Liver and Spleen.</p>
+               <p>
+                  <hi>Sanicle</hi> grows in ſhady places, is under <hi>Venus,</hi> and is a good Wound-herb; it cureth Impoſthumes, Ul<g ref="char:EOLhyphen"/>cerous Sores, inward Bleeding, Running of the Reins, Sores in the Privities, ſtops the Terms, Lask, and Fluxes.</p>
+               <p>
+                  <hi>Saracens Woundwort</hi> groweth by Woods and wet Ground, is under <hi>Saturn,</hi> and cureth yellow Jaundice, Dropſy, Obſtructions inward Wounds, Ulcers of the Kidneys, old Sores, Agues, a ſore Mouth, and Sores in the Privities.</p>
+               <p>
+                  <hi>Savine</hi> groweth in Gardens, is under <hi>Mars,</hi> and kills Worms, provokes the Terms, and deſtroys the Fruit of the Womb. If dry'd and pouder'd, and mixt with Honey, it cureth Fiſtula's, Plague-ſores, Carbun<g ref="char:EOLhyphen"/>cles, Kings-evil, Ringworms, Tettars, Cankers, and Venereal Sores.</p>
+               <p>
+                  <hi>Savory</hi> grows in Gardens, is under <hi>Mercury,</hi> and is good for Cholick and Iliack Paſſion; it provokes the Terms and Urine, helps dimn Sight and Lethargy, Noiſe in the Ears, Gout, Palſie, and venomous Bites, if taken by Decoction, or otherwiſe.</p>
+               <pb n="56" facs="tcp:58366:29"/>
+               <p>
+                  <hi>Saxifrage</hi> (there's two ſorts) groweth in Meadows, is under the <hi>Moon,</hi> and very hot, cauſing Urine: They cleanſe the Reins of Gravel and Stone, Cough and Phlegm, opening the Stomach; they reſiſt Poy<g ref="char:EOLhyphen"/>ſon, cure Convulſions, Cramps, <hi>&amp;c.</hi> Being decocted in Ale or Wine, and that dropt into Wounds, cures them.</p>
+               <p>
+                  <hi>Scabious</hi> groweth in Fields and Meadows, is under <hi>Mercury,</hi> (there are three ſorts) and a good Herb for Conſumptions, helping Coughs, inward Ulcers, Im<g ref="char:EOLhyphen"/>poſthumes, Pleuriſie, Sores, Itch, Scabs of all ſorts, Freckles, Wounds, Stitch.</p>
+               <p>
+                  <hi>Scurvy-graſs</hi> groweth in Gardens, is under <hi>Jupi<g ref="char:EOLhyphen"/>ter,</hi> and cures the Scurvy and groſs Humors, openeth Obſtructions of Liver and Spleen, creates a good Ap<g ref="char:EOLhyphen"/>petite, helps Digeſtion, is good for a ſore Mouth, Spots, Ulcers, Deformities of the Skin, makes a good Complexion, and an excellent Diet-drink.</p>
+               <p>
+                  <hi>Self-heal</hi> groweth in Fields, is under <hi>Venus,</hi> and healeth any Cut or Wound, Ulcers, Bruiſes, ſore Pri<g ref="char:EOLhyphen"/>vities or Mouths, if you uſe the Juice to the Wound, and drink the Decoction.</p>
+               <p>
+                  <hi>Sellary</hi> eat in Sallad warms the Stomach; boil'd in Gruel, it helps a ſhort Breath.</p>
+               <p>
+                  <hi>Service-tree</hi> grows in Orchards, is under <hi>Saturn,</hi> and rotten-ripe it ſtops Fluxes, bleeding at the Noſe, Vomiting, or Wounds; but <hi>Medlars</hi> are more power<g ref="char:EOLhyphen"/>ful.</p>
+               <p>
+                  <hi>Shepherds-purſe</hi> groweth on Bank-ſides, <hi>&amp;c.</hi> is un<g ref="char:EOLhyphen"/>der <hi>Saturn,</hi> and of a cold, dry, binding quality; It helpeth ſpitting of Blood, ſtops Fluxes of the Belly and piſſing of Blood, cures the Jaundice, Noiſe in the Ears, provokes the Terms, and is excellent for any Wound in the Head.</p>
+               <p>
+                  <hi>Smallage</hi> grows in watery Grounds, is under <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> and is more opening and hot than <hi>Parſley.</hi> It cures the Jaundice, provokes Urine and the Terms, helpeth Obſtructions of Liver and Spleen, cureth Ul<g ref="char:EOLhyphen"/>cers, Ague, ſore Throat, Cankerworm, and a ſtinking
+<pb n="57" facs="tcp:58366:29"/>Breath, either Herb or Root. It maketh a Pottage or Gruel that cleanſes the Blood, opens Obſtructions, and eat twice a Day, 'tis an effectual Remedy againſt a Conſumption.</p>
+               <p>
+                  <hi>Sopewort</hi> grows in Fields, is under <hi>Venus,</hi> and if outwardly apply'd, it cures all Wounds; inwardly, it provokes Urine and the Terms, cures the French Pox, and expels Gravel and Stone.</p>
+               <p>
+                  <hi>Spinage</hi> boil'd is excellent Sauce; and eaten with Meat, or alone, 'tis laxative, breeds good Blood, opens Obſtructions. This and Buds of Colworts, or this and the tops of Mint and Balm, boil'd and eat with Butter, Salt, and Bread, is excellent Food; or eat with Endive and young Parſley.</p>
+               <p>
+                  <hi>Sorrel</hi> is under <hi>Venus,</hi> grows in Fields and Gardens, and is very cooling, allaying Fevers and Inflamati<g ref="char:EOLhyphen"/>ons, creates an Appetite, healeth Ulcers, reſiſts Peſti<g ref="char:EOLhyphen"/>lence and Plague. <hi>Wood-Sorrel</hi> is ſingular good in Fevers and Wounds, and is more cordial than t'other. It ſtays Bleeding, all Defluxions, <hi>&amp;c.</hi> and the Syrup is excellent.</p>
+               <p>
+                  <hi>Spurge,</hi> it's poyſonous, being a violent Purger. Read <hi>Cole</hi>'s <hi>Adam</hi> in <hi>Eden</hi> for uſing it.</p>
+               <p>
+                  <hi>Strawberries</hi> grow in Fields and Gardens, are un<g ref="char:EOLhyphen"/>der <hi>Venus,</hi> but cooling, and open cholerick Stomachs, quench Thirſt, provoke Urine, ſtay Vomiting. The Leaf and Root is good in Whey or Water, they cool the Blood and Reins, cure the Jaundice, Ulcers, ſore Mouth, pimpled Faces, and inflamed Eyes.</p>
+               <p>
+                  <hi>Succory,</hi> or <hi>Chichory,</hi> groweth in Gardens and Fields, boil'd in Wine or Water, it purgeth the Stomach of phlegmatick and cholerick Humors, cures the yellow Jaundice, Ague, Dropſy, Paſſion of the Heart, Infla<g ref="char:EOLhyphen"/>mation, St. Anthony's Fire, and opens Obſtructions: The diſtill'd Water is good for ſore Eyes; the Leaf bruis'd allays Inflamation and Swelling. The wild <hi>Succory</hi> is bittereſt, and for the Liver moſt effectual.</p>
+               <p>
+                  <hi>Stonecrop</hi> grows on Stone-walls, and is under <hi>Mars.</hi> It ſtops Bleeding apply'd to any Part. Being taken
+<pb n="58" facs="tcp:58366:30"/>inwardly by Decoction or Juice, it vomits and purges ſtrongly; it cures Knots and Nodes, Agues, Peſtilen<g ref="char:EOLhyphen"/>tial Fevers, and Kings-evil.</p>
+               <p>
+                  <hi>Southernwood</hi> grows in Gardens, is under <hi>Mercury,</hi> and cures the Stone, Spleen, Vapours, French Pox, Baldneſs, ſore Privities, Wheals, Ulcers, inflam'd Eyes, red Faces, Ague, Poyſon, Ruptures, Sciatica, Convul<g ref="char:EOLhyphen"/>ſions; and by Decoction, Short-breath and Aſthma, beating it well, and mixing it with Sugarcandy, in Cakes as big as a Half-crown, eating a few now and then.</p>
+               <p>
+                  <hi>Sowthiſtle,</hi> when young, is a good Sallad raw or boil'd; it grows by Walls, Bank-ſides, <hi>&amp;c.</hi> 'Tis an Herb of <hi>Venus,</hi> and is good to help Pains and to cool a hot Stomach. The Milk ſqueez'd out of the Sta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k is good againſt Short-breath and Wheaſing; if drank in Wine, it cures a ſtinking Breath, Gravel and S one. It cauſeth ſpeedy Labour to Women, if 2 or 3 ſpoon<g ref="char:EOLhyphen"/>fuls of the Juice be drank with Oil and Wine.</p>
+               <p>
+                  <hi>Spignel</hi> groweth in Gardens wild, is under <hi>Venus;</hi> the Roots are bad for the Headach, if too much be taken, but provoke Urine and the Courſes. It cutteth Phlegm, helps Pain of the Stomach, and is good for Poyſon of venoumous Beaſts.</p>
+               <p>
+                  <hi>Spleenwort</hi> groweth upon the Ground about Stone<g ref="char:EOLhyphen"/>walls, and is under <hi>Saturn.</hi> The Root and Herb be<g ref="char:EOLhyphen"/>ing boil'd, helps the Spleen, yellow Jaundice, Hiccup, and Running of the Reins; but if uſed by Women, it hinders Conception. it cureth the Stone, and all Melancholy Diſeaſes.</p>
+               <p>
+                  <hi>Starthiſtle</hi> groweth common, is under <hi>Mars,</hi> and the Seed pouder'd and drank in Wine break the Stone, help Plague, French Pox, and Strangury: It cureth Agues, and opens all Obſtructions.</p>
+               <p>
+                  <hi>Staves-acre</hi> (cold in the 4th degree) pouder'd and mix'd with freſh Butter or Oil, kills Lice, Nits, and Itch. The Seed killeth Bats, and held in the Mouth it expels Rheum and helps the Toothach. 'Tis dan<g ref="char:EOLhyphen"/>gerous to take inwardly.</p>
+            </div>
+            <div n="T" type="part">
+               <pb n="59" facs="tcp:58366:30"/>
+               <head>T</head>
+               <p>
+                  <hi>Tamarisk-tree</hi> grows in Gardens, is under <hi>Saturn,</hi> and cureth Blood-ſpitting, ſtops the Courſes, is good againſt the Jaundice, Poyſon, Dropſy, Scabs, French Pox, Ulcers, ſore Eyes or Ears, by boiling the Bran<g ref="char:EOLhyphen"/>ches in Wine or Vinegar, and applying it.</p>
+               <p>
+                  <hi>Tanſie</hi> groweth in Gardens and elſewhere, is under <hi>Venus,</hi> but very opening; it cleanſeth the Blood, Bladder, Womb, and helps all Diſeaſes of the Reins, Cramp, Stomach-worm, <hi>&amp;c.</hi> either in Decoction or fry'd. The wild ſtops a Bloody-flux, Lask, Terms, provokes Urine; the diſtill'd Water takes away De<g ref="char:EOLhyphen"/>formity of the Face, making the Skin white.</p>
+               <p>
+                  <hi>Taragon</hi> is excellent good eat with <hi>Lettuce</hi> raw or boil'd, and is good for the Heart, Liver, and weakneſs of the Brain.</p>
+               <p>
+                  <hi>Tobacco</hi> is under <hi>Mars,</hi> 'tis good for the Phlegma<g ref="char:EOLhyphen"/>tick, and bad for the Cholerick to ſmoke: It brings away Phlegm by either ſmoaking or chewing it: It helps Pains in the Bowels, the Stone, ſtoppage of U<g ref="char:EOLhyphen"/>rine, and Agues. Made into an Ointment, it heals Wounds, Sores, Ulcers, Scab, Cankers, Impoſthumes, and kills Lice. I am told, that Sage mix'd with it prevents its hurting the Eyes, and ſome ſmoke Beto<g ref="char:EOLhyphen"/>ny and Coltsfoot with it. Likewiſe put 10 or 12 drops of Oil of Aniſeeds into a Box of Tobacco, and ſmoke a Pipe now and then, cures a Rheumatiſm. Dr. <hi>Vener</hi> preſcribes to correct the fulſom Vapour, the Root of <hi>Saſafras</hi> or <hi>Lign Aloes,</hi> for the one comforts the Brain and Sinews, t'other the Heart and Spirits, a grain of either in the midſt of a Pipe full. Alſo to mix with 8 or 10 Pipefuls one drop of Oil of Roſe<g ref="char:EOLhyphen"/>mary, is good for a cold moiſt Brain. A certain Au<g ref="char:EOLhyphen"/>thor makes it a Panacea for all Diſeaſes, but Dr. <hi>Ve<g ref="char:EOLhyphen"/>ner</hi> ſays, Had he reſtrain'd it to Wounds, Scabs, Ul<g ref="char:EOLhyphen"/>cers, <hi>&amp;c.</hi> it had been well. A little (either Leaf or cut) put into the Noſtrils, purges the Head and Brain well, and is excellent for that purpoſe: The Aſhes cleanſe the Gums, and the Herb bruis'd and apply'd,
+<pb n="60" facs="tcp:58366:31"/>help the Kings-evil, and Bites of venomous Beaſts. 'Tis alſo good to ſmoke in time of Plague; but to prevent and cure that, there's excellent Receipts in <hi>Hartman</hi>'s <hi>Preſervative againſt all Diſeaſes,</hi> and in a Book call'd <hi>A Thouſand Notable Things,</hi> two Books worth minding.</p>
+               <p>
+                  <hi>Thiſtles</hi> grow common, are under <hi>Mars,</hi> and boil'd in Wine they cure ſtinking Urine, and help the bad Smell of the Armpits. The <hi>Cotton-thiſtle</hi> being large, helpeth Cricks in the Neck, and is good to eat.</p>
+               <p>
+                  <hi>Teaſell,</hi> or <hi>Fullers-Thiſtle,</hi> groweth wild and in Gardens, is under <hi>Venus,</hi> and cureth Cankers, Fiſtu<g ref="char:EOLhyphen"/>la's, Warts, Worms in the Ear, and Face, <hi>&amp;c.</hi> Chaps being waſh'd with the Decoction, cures 'em. Cloth-dreſſers uſe it much.</p>
+               <p>
+                  <hi>Treacle, Muſtard,</hi> and <hi>Mithridate</hi> Herbs of <hi>Mars,</hi> grow by Hedges and River-ſides, which being uſed in Glyſters help the Sciatica, purge upward and down<g ref="char:EOLhyphen"/>ward, cauſe Abortion, reſiſt Poyſon, therefore good in Mithridate and Treacle, uſed in ſome Caſes inſtead of Muſtard.</p>
+               <p>
+                  <hi>Thorn (Black-)</hi> grows in Hedges, is under <hi>Saturn,</hi> cold, dry, and binding. The Sloes make Garles for the Mouth, the Leaves ſtay Bleeding, Flux, and the Courſes. Sloes boil'd, and the Juice ſqueez'd from them and put in Cyder, giveth it a colour and rough taſte like Claret, and may be as wholſome.</p>
+               <p>
+                  <hi>Thorow-wax</hi> (or <hi>Thorow-leaf</hi>) groweth in Corn<g ref="char:EOLhyphen"/>fields and Paſtures, is under <hi>Saturn,</hi> and is good for Wounds, Bruiſes, Ulcers, Ruptures, inward or out<g ref="char:EOLhyphen"/>ward, the Decoction drank in Wine or Water, or the Pouder taken inwardly, or the Leafs bruis'd and ap<g ref="char:EOLhyphen"/>ply'd.</p>
+               <p>
+                  <hi>Thyme</hi> groweth in Gardens, is under <hi>Venus,</hi> and is a noble ſtrengthener of the Brain: Nor can a better Medicine be given Children for a Chincough: 'Tis good to kill Worms, for ſhort Breath, againſt Phlegm, and to provoke Urine or Terms: It cauſeth eaſie De<g ref="char:EOLhyphen"/>livery to Women in travail, cures Swellings, Sciatica,
+<pb n="61" facs="tcp:58366:31"/>Gout, and ſwell'd Privities, if you eat the Herb, or drink the Decoction.</p>
+               <p>
+                  <hi>Mother of Thyme</hi> doth the ſame, and ſtrengthens both Head and Stomach, and likewiſe helps Vomiting.</p>
+               <p>
+                  <hi>Tormentile</hi> groweth in Woods and ſhady places, is under the <hi>Sun,</hi> and both Root and Herb is excellent to ſtay Bleeding, Flux, and Terms; they allay Heat in Fevers, Peſtilence, Plague, and Small-pox. The Decoction drank in Wine, or Pouder of the Root, is good againſt Purples, Poyſon, <hi>&amp;c.</hi> it opens Obſtructi<g ref="char:EOLhyphen"/>ons of the Spleen, Liver, and Lungs, cureth yellow Jaundice, Gout, Toothach, Ruptures, ſcabby Heads, and helps Abortion. The Root boil'd in three pints of Water, with Loaf ſugar in it, till 'tis reduced to a quart, and a pint of Claret put to it, ſo drank, is good for the Piles inward or outward; ſo is <hi>Yarrow-Tea</hi> ſweetned with Loaf-ſugar, and drank. <hi>Tormen<g ref="char:EOLhyphen"/>tile</hi> clears the Sight, tho' almoſt blind. See <hi>A thouſand Notable Things.</hi>
+               </p>
+               <p>
+                  <hi>Turnſole</hi> groweth in Gardens, and is under the <hi>Sun.</hi> Decocted in Water and drank, it purges both Choler and Phlegm, breaks the Stone, opens the Urinary Paſ<g ref="char:EOLhyphen"/>ſage, cureth Gouts, Warts Wens, <hi>&amp;c.</hi> only by apply<g ref="char:EOLhyphen"/>ing the Herb outwardly bruis'd with Salt.</p>
+               <p>
+                  <hi>Turneps</hi> are good for Conſumptions, and the Tops (when boil'd young) are good to eat.</p>
+               <p>
+                  <hi>Tutſan</hi> groweth in woody Ground, is under <hi>Saturn,</hi> and is good againſt Venery, purgeth Cholerick Hu<g ref="char:EOLhyphen"/>mours, cures the Gout, Ulcers, Wounds, Sciatica, <hi>&amp;c.</hi> If inwardly taken by drinking, or outwardly by bath<g ref="char:EOLhyphen"/>ing, waſhing, or Ointment, it healeth Wounds.</p>
+            </div>
+            <div n="V" type="part">
+               <head>V</head>
+               <p>
+                  <hi>Valerian</hi> groweth in Gardens, is under <hi>Mercury,</hi> and mightily provokes Urine. The Decoction drank, helpeth Strangury, moves the Terms, cureth Pain in the Sides, helps Cough, Wind-Cholick, Peſtilence, Pin or Web in the Eye, Headach, Wounds, and draws out Thorns.</p>
+               <pb n="62" facs="tcp:58366:32"/>
+               <p>
+                  <hi>Vervain</hi> groweth by Way-ſides and Hedges: It bot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtrengthens the Womb and open Obſtructions, cur<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> venomous Bitings, Jaundice, Plague, and Agues; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> killeth Worms, cures Dropſy, Gout, Cholick, and is good for phrentick People. Drink it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oil'd in Wine, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cureth Gravel and Stone; it heals Ulcers, Wounds and Fiſtula's, and ſtrengthens the Brain and Optick Nerves, if anointed with it. This, Agrimony, and Plantane, each an equal quantity, bruis'd and boil'd in Whitewine, and a good quantity drank in a Mor<g ref="char:EOLhyphen"/>ning, (or bruis'd with Bay-ſalt and apply'd) cures all Creatures bitten by mad Dogs, which if bit at Full-Moon, fall mad at New; and if at New-Moon, fall mad at Full.</p>
+               <p>
+                  <hi>Vines</hi> grow in Gardens, <hi>&amp;c.</hi> are under <hi>Jupiter,</hi> and its Fruit cheers the Heart: The Leaves boil'd, make a good Mouth-water; the Aſhes of the Branch burnt makes Teeth white; the Juice or Tears drank, br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak the Stone.</p>
+               <p>
+                  <hi>Violets</hi> grow in Gardens and wild, are under <hi>Venus,</hi> but very cooling and harmleſs; they abate In<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tions. The Syrup or Decoction of Root, Leaf, and Flower purge the Blood, Reins, Bladder, Matrix; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Outwardly apply'd as a Poultice, it helpeth Headach, abates Swellings and Impoſthumes: Inwardly taken, they open Obſtructions of the Liver, cure Jaundice, hot Agues, and make a good Gargle for Mouth and Throat.</p>
+            </div>
+            <div n="W" type="part">
+               <head>W</head>
+               <p>
+                  <hi>Wall-flowers</hi> grow on Walls, are under the <hi>Moen,</hi> and are good in Gouts, Palſie, Apoplexy, Pains in the Joints. The Flower decocted, infuſed, or made into a Syrup, opens Obſtructions of Liver or Spleen, provokes Terms, and brings away After-birth.</p>
+               <p>
+                  <hi>Walnut-tree</hi> groweth in Orchards and Fields, is a Plant of the <hi>Sun,</hi> and the Fruit, Leaf, and Bark is and Antidote againſt Poyſon, but beſt before the Shell begins to harden: They are naturally binding, but kill Worms, cure Inflamations of the Throat, biting
+<pb n="63" facs="tcp:58366:32"/>of venomous Beaſts. If bruis'd with Onions, Salt, and Honey, they cure Carbuncles, ſtop Fluxes, <hi>&amp;c.</hi> A preſerv'd Walnut is good againſt Plague or Infecti<g ref="char:EOLhyphen"/>on, if taken in a Morning faſting. The Oil of the of Kernel cureth Deafneſs, if put into the Ear.</p>
+               <p>
+                  <hi>Wart-Cichory,</hi> either eat in Sallads, or laid on the Wart, cures 'em to admiration.</p>
+               <p>
+                  <hi>Wold (Dyers-weed)</hi> grows in wet places, is under <hi>Mercury.</hi> Being decocted, it cureth Phlegm and groſs Humours, diſſolves hard Swellings, cureth Bites from venomous Beaſts, kills Worms, and reſiſts Infection.</p>
+               <p>
+                  <hi>Wheat</hi> growth in Fields, is under <hi>Venus,</hi> and if you preſs an Oil out, it cureth Tettars, Ringworms, Chapt Hands, Ulcers, <hi>&amp;c.</hi> The Flower boil'd in Vi<g ref="char:EOLhyphen"/>negar and made a Poultice of, cures the Rickets and Joint-Evil.</p>
+               <p>
+                  <hi>Willow-tree</hi> groweth by Water-ſides, is under the <hi>Moon,</hi> and the Seed, Bark, and Leaves ſtay bleeding, ſpitting of Blood, and Bloody flux. The Decoction drank in Wine, cures Cholick-pains, Vomiting, heat of Luſt; and the Eyes being waſh'd therewith, cures dimn Sight.</p>
+               <p>
+                  <hi>Woad</hi> grows in Fields, <hi>&amp;c.</hi> is under <hi>Saturn,</hi> and is cold, drying, and binding: It ſtops Bleeding, and ſoftens a hard Spleen, Inflamations or Ulcers in any Part.</p>
+               <p>
+                  <hi>Wolfsbane</hi> being poyſonous inwardly taken, for<g ref="char:EOLhyphen"/>bear its Uſe.</p>
+               <p>
+                  <hi>Woodbind</hi> grows in Hedges, is under <hi>Mercury,</hi> and is good for the Lungs againſt Aſthmatical Diſeaſes, very cleanſing, and opening Obſtructions, provoketh Urine and the Terms, cauſeth ſpeedy Delivery, pro<g ref="char:EOLhyphen"/>vided you drink the Decoction of the Flowers or Leaves. The Ointment cureth Freckles, Palſie, Cramp, and Convulſtons.</p>
+               <p>
+                  <hi>Wormwood</hi> groweth in Fields and other places, is under <hi>Mars,</hi> and is hot and dry: It purifieth the Blood, creates a Stomach, helps Digeſtion, Surfeits, and yellow Jaundice; cureth all biting of venomous
+<pb n="64" facs="tcp:58366:33"/>Beaſts, Poyſon of Muſhrooms, and kills Worms. The Uſe hereof preſerves the Body in health; drank cold in Purl, it does not hurt the Eyes, but is good for the Piles.</p>
+            </div>
+            <div n="Y" type="part">
+               <head>Y</head>
+               <p>
+                  <hi>Yew-tree</hi> groweth in Church-yards, is venomous, and the Fume kills Mice. Some ſay the Berries fat<g ref="char:EOLhyphen"/>ten Fowl. The Juice helpeth biting of Vipers; the Wood raſp'd and drank, helps biting of mad Dogs: It's counted Poyſon inwardly taken.</p>
+               <p>
+                  <hi>Yarrow</hi> grows in Paſtures, is under <hi>Venus,</hi> and put up the Noſe, it makes you ſneeze, your Noſe to run, ſo conſequently good againſt the Vertigo. An Oint<g ref="char:EOLhyphen"/>ment of it is good in green Wounds, Ulcers, Fiſtu<g ref="char:EOLhyphen"/>la's, <hi>&amp;c.</hi> eſpecially ſuch as abound with moiſture: It cures Inflamations. The Decoction drank cures the Bloody-flux; being chew'd, it helps the Tooth-ach, Running of the Reins, and Whites in Women. 'Tis excellent for the Piles, drank in Tea ſweetned with Loaf-ſugar, ſo is <hi>Tormentile.</hi>
+               </p>
+               <p>
+                  <hi>Zedoary</hi> groweth in Fields, <hi>&amp;c.</hi> is under <hi>Mars,</hi> hot and dry in the 2d degree: It expels Wind, good againſt Poyſon and Infection, it ſtays Vomiting, ſtops Fluxes and Terms, kills Worms, and is uſed in An<g ref="char:EOLhyphen"/>tidotes againſt the Plague. You may take the Root pouder'd (half a dram) in Wine, Ale, Tea, Poſſet-drink, or as you like beſt.</p>
+            </div>
+            <div type="part">
+               <head>The Art of Herb-gathering.</head>
+               <p>GO into the Field, you'll find growing by Walls and Hedge-ſides frequently Cinquefoil, Hounds-tongue, Flaxweed, Jack-by-th'-hedge, Knotgraſs, Mug<g ref="char:EOLhyphen"/>wort, Shepherds-purſe, Vervain, wild Tanſie, wild O<g ref="char:EOLhyphen"/>rage. In Cloſes you'll find Bedſtraw, wild Carrots, Dandelion, Daiſies, Earthnuts, Knapweed, Ragwort, Scabious, Trefoil, Yarrow. Among Corn you'll find
+<pb n="65" facs="tcp:58366:33"/>Bluebottles, Cow-parſnip, Corn-marigold, Fumitory, Bindweed, Mayweed, Pimpernel, Poppies, Reſthar<g ref="char:EOLhyphen"/>row, Sowthiſtle. In Woods you find Agrimony, Milk-wort, Ciſtus, St. Johns-wort, Ladies-mantle, Moonwort, Mouſe-ear, Tormentile, Satyrions, Sorrel, Wood-Beto<g ref="char:EOLhyphen"/>ny, Wood-Spurge, <hi>&amp;c.</hi> In Meadows you will find Burnet-Coxcomb, Louſewort, March-Marigolds, Moni<g ref="char:EOLhyphen"/>worth, Meadſweet, Meadow-Rhubarb, <hi>&amp;c.</hi> In Bogs you'll find Butterwort, Buckbeans, Cottongraſs, Va<g ref="char:EOLhyphen"/>lerian, Horſemint, Horſe-tail, Peonygraſs. On Banks of a River you'll ſee the great Valerian, Sneeſwort, Comfry, Watercreſſes, Allheal, the great Dock, Water<g ref="char:EOLhyphen"/>hemp, Flower-de-Luce, Willow-weed, Water-Betony, Caſt your Eye toward the Water, therein you'll find Water-lilly, Frogbit, Water-Milfoil, Burweed, Cal<g ref="char:EOLhyphen"/>throps, Water-Plantane, Water-Parſly, Arrowhead, all ſorts of Flag Bulruſhes. And by Ditches you'll find Duckſmeat, Water-Crowfoot, Brooklime, Water-parſnip, Water-Creſſes, Water-Horehound, Horſemint, Water-Scorpiongraſs. Near Town lift up your Eyes to the Walls, and there you'll ſee Maidenhair, Whitlow<g ref="char:EOLhyphen"/>graſs, Wall-Bugloſs, Polipody, Wallflowers, Rocket, Pellitory. Then look toward Houſe-tops, and you'll perceive Singreen or Houſleek, Stonecrop, Herb-Robert.</p>
+               <p>And now you can't but ſay I have named a great many Herbs, but then ſay you, To what Purpoſe? Why, you muſt obſerve, Herbs in their proper Places have the greateſt Vertues, tho' perhaps they may be found in other Places too; and you find, that though ſome may grown in diverſe places, yet others are ſo confin'd that they cannot be brought into a Garden: Some of thoſe which grow in the Water will not ea<g ref="char:EOLhyphen"/>ſily be perſwaded to grow any where elſe; ſo it is with thoſe that delight in dry places.</p>
+            </div>
+            <div type="section">
+               <head>To make Tea's or Gruels.</head>
+               <p>Look into your Herbal, you'll find the Vertue of the Herbs you intend to make Tea, for all Diſtem<g ref="char:EOLhyphen"/>pers.</p>
+               <pb n="66" facs="tcp:58366:34"/>
+               <p>You may make your Tea's or Gruels ſtronger or weaker, according to the quantity of the Herb you put into your Liquor. <hi>Sage-Tea</hi> is good for the Head, Memory, Eyes, and Palſie, and ſeveral other things. Read <hi>Evelyn</hi> on Sallads, <hi>p.</hi> 61. <hi>Roſemary-Tea</hi> is good for the Memory, Sight, Nerves, and Head. <hi>Scurvy<g ref="char:EOLhyphen"/>graſs-Tea</hi> is good for the Scurvy. <hi>Sweet-Marjoram, Limon-Thyme, Ground-Ivy, Mint, Peonyroyal, Mari<g ref="char:EOLhyphen"/>golds, Betony,</hi> with divers others. See their Vertues in this Hearbal.</p>
+            </div>
+            <div type="section">
+               <head>Herbs Names from their Reſemblance, <hi>&amp;c.</hi>
+               </head>
+               <p>Arrow-head, is an Herb like the Head of a barbed Arrow; Scurvygraſs is call'd Spoonwort, the Leaf re<g ref="char:EOLhyphen"/>preſents the ſhape of a Spoon; Dandelion is like a Lyon's Tooth; Plantain is call'd Rib-wort, becauſe every Leaf hath five Strings like Ribs; Swordflag re<g ref="char:EOLhyphen"/>ſembles a Sword; Crowfoot, the Foot of a Crow; Teazel or <hi>Venus</hi>-baſon, a Baſon; Goatsbeard or Tra<g ref="char:EOLhyphen"/>gapogon, is like a Goat's Beard; Twablade has two Leafs; Trefoil, three Leafs; Herb-Paris hath four; Cinquefoil has five; Heptaphillon, becauſe 7 Leafs; Butterbur feels as if melted Butter had been pour'd on it; Sundew hath a Dew upon it in the hotteſt wea<g ref="char:EOLhyphen"/>ther; Saw-wort, its Leafs are nick'd like a Saw; But<g ref="char:EOLhyphen"/>terbur, becauſe Butter is wrapt therein; Leadwort hath Leafs the colour of L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad; Houſleek, from grow<g ref="char:EOLhyphen"/>ing on Houſes: Bugloſs is like an Ox's Tongue: Some Leafs have Sand about 'em always, as Mercury and Orage; the Leafs of all ſorts of Scabious break with ſmall things like Hairs in the middle, and ſo you may know it from Knapweed, which is like it: Pimpernel Leaves are ſpotted underneath; St. Johns-wort and St. Peters-wort, held to the Light, has holes like a Sieve; Leaves of Rhubarb, Burdock, <hi>&amp;c.</hi> are large and round; Docks are like Tobacco; Elecam<g ref="char:EOLhyphen"/>pane Leafs are long, large, and few; Thyme, Rue, Aſparagus, Sprigwell, Fennel, <hi>&amp;c.</hi> have many ſmall
+<pb n="67" facs="tcp:58366:34"/>Leafs; Leafs of Orpine, Aloes, and Houſleek are thick and oily; Stonecrop Leaves are long and round, like Roſemary; ſome Leafs are indented, as Radiſh, Ver<g ref="char:EOLhyphen"/>vain, Dandelion; ſome leſs indented, as Maudlin, Al<g ref="char:EOLhyphen"/>heal, Tanſie, Sneeſwort; Arſmart rough and ſpotted; Comfrey and Teazel are rough Leafs; Bearsbreech and Mandrake are ſmooth and glib: Burnet ſmells like a Cucumber; ſtinking Orage like Old Ling; Croſſwort ſmells like Honey; Willow-weed like cod<g ref="char:EOLhyphen"/>dled Apples; Paſque-flower, Gentian or Felwort be<g ref="char:EOLhyphen"/>ing ſqueez'd and ſmelt to, will bite the Noſe; Co<g ref="char:EOLhyphen"/>riander ſmells ſtrong, ſo doth Smallage, Rue, Hem<g ref="char:EOLhyphen"/>lock, Henbane; ſtinking Gladwin taſtes like Roaſt-Beef; Pignuts taſte like other Nuts; Vine-Leafs taſte like Sorrel, ſo doth Barbary-buſh; Rocket taſtes like Milk burnt-to; Cuckowpint hath a biting taſte, ſo hath Spearwort, Aloes, Lavender-cotton, and the leſ<g ref="char:EOLhyphen"/>ſer Centaury; Creſſes, Garden-Ginger, and Terragon have a biting taſte, but pleaſant; Seaweed, Scurvy<g ref="char:EOLhyphen"/>graſs, and Samphire taſte ſalt; Mirabolans and Fen<g ref="char:EOLhyphen"/>nelſeed are ſweet before ripe, but afterwards taſte ſpi<g ref="char:EOLhyphen"/>cey; Tamarinds, Barberries, Crabs and Sloes have a pleaſant ſharp taſte; Euphorbium, Celandine, Sow<g ref="char:EOLhyphen"/>thiſtle, Spinage, old Lettuce, Figs from the Tree, are bitter. There is a Wormwood ſo like Lavender, that it can be known from it only by the ſmell and taſte.</p>
+            </div>
+            <div type="part">
+               <head>Select Remedies againſt the <hi>Plague,</hi> and any Venom or Poyſon.</head>
+               <div type="section">
+                  <head>The King of <hi>Poland</hi>'s Preſervative againſt the <hi>Plague.</hi>
+                  </head>
+                  <p>TAke of the beſt Vinegar ſix quarts, Juice of Ce<g ref="char:EOLhyphen"/>landine clarified nine pints, Leaves and Roots of Avens, Roots of Elecampane, of each one ounce; Roots of Angelica, Zedoary, Juniper-berries, of each
+<pb n="68" facs="tcp:58366:35"/>two ounces; Sage one handful: Digeſt this two days in a gentle heat, then ſtrain it and keep it in Bottles clean and ſtopt.</p>
+                  <p>This is a powerful Remedy, both for preſerving from and curing the Plague, and o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>gnant Fe<g ref="char:EOLhyphen"/>vers: It alſo clears the Sight to a wonder, by taking a little Glaſs of it in the Morning faſting.</p>
+                  <p>'Tis recorded, That no Perſon who drank this in the great Plague in 1592, was infected with it, but was preſerv'd from it and all other Diſeaſes.</p>
+               </div>
+               <div type="section">
+                  <head>Another great Preſervative againſt the Plague.</head>
+                  <p>Take Sage, Elder-leaves, <hi>Rubus Idens,</hi> Rue, Roſe<g ref="char:EOLhyphen"/>mary, Wood-ſorrel, of each half a handful; ſtamp 'em together in a Stone Mortar, then put 'em in a Stone Pitcher or other ſuchlike Veſſel, and pou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upon them a pint of good Whitewine, and a pint of Vinegar; let it infuſe 24 hours, then ſtrain it, and add to the ſtrain'd Liquor half a pint of Angelica-water; then diſſolve in it Mithridate and Venice-Treacle, of each one dram. Take of this Liquor one ſpoonful in the Morning, another at Night, and you ſhall be preſer<g ref="char:EOLhyphen"/>ved. If you fear you have taken any Infection, take two or three ſpoonfuls of it, and go to Bed and ſweat if poſſible.</p>
+               </div>
+               <div type="section">
+                  <head>The great Preſervative which Sir <hi>Kenelm Digby</hi> bid me prepare for his Family in the great Plague at <hi>London</hi> in <hi>1665,</hi> was thus:</head>
+                  <p>Take a pound of the Leaves of Wood-ſorrel, bruiſe 'em by themſelves very well; then take three pound of fine Sugar pouder'd, and mix theſe together, keep<g ref="char:EOLhyphen"/>ing it ſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ring and beating for three hours; then get four ounces of Mithridate or <hi>London</hi>-Treacle; pound 'em all together for half an hour longer, then put it up in Gallipots, and tie it up cloſe with a Bladder, Leather, or Paper.</p>
+                  <pb n="69" facs="tcp:58366:35"/>
+                  <p>In time of Infection take the quantity of a large Nutmeg every Morning faſting: and if you have ta<g ref="char:EOLhyphen"/>ken any Infection, or if you find your ſelf ſtruck with any Diſeaſe at Heart, or Pain in the Stomach, take al<g ref="char:EOLhyphen"/>moſt as much more, and get to Bed and ſweat for an hour. Of this I took my ſelf, and went up and down the City every day in the Plague-time, and yet thro' GOD's Bleſſing was preſerv'd, ſo was all that took it. But to preſerve in time of Infection, Sir <hi>Kenelm</hi> ſays 'tis good to eat ſome tops of Rue with Bread and But<g ref="char:EOLhyphen"/>ter, and a little very old ſtrong Cheeſe, in a Morning, and drink a Glaſs of Stomach-water, Claret, or Wine and Water after it.</p>
+               </div>
+               <div type="section">
+                  <head>An excellent Perfume for a Houſe in time of Infection.</head>
+                  <p>Take Talk, reduce it to pouder, and mix it with Vinegar, ſo burn it in a Fireſhovel of Coals, and your Houſe will (by GOD's Aſſiſtance) be preſerv'd from Infection.</p>
+               </div>
+               <div type="section">
+                  <head>Another Perfume.</head>
+                  <p>Take Roots of Angelica dry'd and pouder'd, then mix the ſame with Vinegar, and let it ſleep therein three or four days, ſo drop it on a hot Brick every Morning and Night.</p>
+                  <p>In <hi>Holland, Germany,</hi> &amp;c. in time of Infection they burn Juniper-berries in a Chafingdiſh or a Fireſhovel of Coals, and go into every Room with it. If the Berries be bruis'd and mix'd with Vinegar, ſo burnt, 'twill be more effectual.</p>
+               </div>
+               <div type="section">
+                  <head>The Lady <hi>Allen</hi>'s Plague-water.</head>
+                  <p>Take Rue, Agrimony, Wormwood, Celandine Sage, Balm, Mugwort, Dragons, Pimpernel, Marigolds, Fe<g ref="char:EOLhyphen"/>therfeu,
+<pb n="70" facs="tcp:58366:36"/>Burnet, Sorrel, Scabious, Wood-betony, brown Mayweed, Avens, Tormentile, Carduus Benedictus, of each one handful, Roſemary two handfuls; Angelica and Burdocks each one handful: Shred all theſe to<g ref="char:EOLhyphen"/>gether very ſmall, then ſteep 'em in the beſt White<g ref="char:EOLhyphen"/>wine, as much as will cover the Herbs; then ſlice in four ounces of Elecampane-root: Let all theſe ſteep three Days and Nights, ſtirring them every 12 hours. Cover the Tub cloſe when you diſtill it; lay it not above an inch thick in the bottom. Save the firſt Running by it ſelf.</p>
+               </div>
+               <div type="section">
+                  <head>The <hi>London</hi> Plague-Water.</head>
+                  <p>Take Roots of Angelica, Maſterwort, Butterbur, Peony-roots, of each four ounces; Vipergraſs, Virgi<g ref="char:EOLhyphen"/>nia Snakeroot, each one ounce; Leafs of Rue, Roſe<g ref="char:EOLhyphen"/>mary, Balm, Carduus Benedictus, Scordium, Marigo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with the Flowers, Dragon, Goatſrue, Mint, of each two handfuls: Shred the Herbs, cut the Roots, and ſtamp them a little, and infuſe 'em for two days in ſix quarts of <hi>Nants</hi> Brandy; then put thereto ſix quarts of fair Water, ſo diſtill it in an Alembeck, drawing from it two gallons, which put up in Bottles, and hang two drams of Saffron in it ty'd up in a Rag: Or make the Tincture of two drams of Saffron with the firſt running, and mix that with the reſt of your Water. To every quart of this Water put two oun<g ref="char:EOLhyphen"/>ces of fine Sugar.</p>
+                  <p>This is excellent againſt the Plague and all malig<g ref="char:EOLhyphen"/>nant Diſtempers, as Small-pox, Meaſles, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted and purple Fevers, <hi>&amp;c.</hi> The Doſe is from one <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unce to two, in Angelica or Sage-water, ſweetned with S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rup of Clovegilliflowers,</p>
+               </div>
+               <div type="section">
+                  <head>Dr. <hi>Bruges</hi>'s Antidote againſt the Plague.</head>
+                  <p>Take Sage and Rue each one handful, ſhred and ſtamp 'em, then boil 'em in three pints of Malmſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y
+<pb n="71" facs="tcp:58366:36"/>till a pint be conſumed; then ſtrain and ſet it over the Fire again, putting into it a Pennyworth of long Pepper, Ginger half an ounce, of Nutmegs and Cloves each two drams: Beat 'em all together, and let them boil a walm or two; then put into it an ounce of Mithridate, half an ounce of Treacle, and a quarter of a pint of hot Angelica water.</p>
+                  <p>Take of this a ſpoonful at a time every Morning during the Contagion; and if infected before, take two ſpoonfuls and ſweat upon it. Under GOD, you may depend upon this ſovereign Antidote, for none that uſed it timely did ever find it fail. 'Tis like<g ref="char:EOLhyphen"/>wiſe good in the Small-pox, Meaſles, or any malignant Fever.</p>
+               </div>
+               <div type="section">
+                  <head>Sir <hi>Walter Raleigh</hi>'s Experiment to draw forth a Swelling or Plague-Sore.</head>
+                  <p>Take a Cock-Chicken, pull the Rump bare, and hold it cloſe to the Sore till the Venom is drawn out, for then the Chicken will die; but you muſt apply a freſh one till the Chicken lives, and that will not be till all the Venom is out.</p>
+               </div>
+               <div type="section">
+                  <head>An approv'd Remedy for the Biting of mad Dogs, either in Man or Beaſt.</head>
+                  <p>Take a handful of Rue, ſhred and ſtamp it, one diam of Treacle, and a ſpoonful of the ſhavings or filings of Tin; put all theſe into a quart of Ale, and boil it till half be conſumed, then ſtrain it, and give the Patient thereof two ſpoonfuls at Morning and Night.</p>
+               </div>
+               <div type="section">
+                  <head>Another.</head>
+                  <p>Take ruſty Bacon, ſtamp it well with Betony and Agrimony, each alike quantity, and apply to the Bite.</p>
+               </div>
+               <div type="section">
+                  <pb n="72" facs="tcp:58366:37"/>
+                  <head>A moſt excellent Remedy for Bitings of mad <hi>Dogs, Vipers, Serpents,</hi> or <hi>Snakes,</hi> expe<g ref="char:EOLhyphen"/>rienc'd by a famous Chirurgion.</head>
+                  <p>Take of the leſſer <hi>Conſolida</hi> or Larkſpur, Chervil, the white ends of Leeks, the tops of Broom, of each two handfuls, a little new Cream off the Morning Milk, and a good handful of Salt: Stamp them to<g ref="char:EOLhyphen"/>gether in a Stone Mortar, and with the Juice rub the Part griev'd, which will be hard in the Fleſh, and ſometimes black, then lay it on the Part as a Poultice and tye it faſt on with a Bandage; the Swelling in a ſhort time will abate, and a Cure ſucceed. Sir <hi>Ke<g ref="char:EOLhyphen"/>nelm Digby</hi> ſays, That the ſame Chirurgion cured ſome with this Remedy when other Chirurgions would have cut off an Arm or Leg bit by venomous Beaſts; and that, among the reſt, he cured a Man in Sir <hi>Kenelm</hi>'s preſence, whoſe Arm was as black as Ink, by being bitten by a Serpent.</p>
+               </div>
+               <div type="section">
+                  <head>Againſt Venom or Poyſon.</head>
+                  <p>Take Seeds of Sage, bruiſe and boil them in Goats Milk, what quantity you pleaſe, till 'tis waſted to a third part: Drink thereof three days, and you will find it a ſovereign and effectual Remedy.</p>
+               </div>
+               <div type="section">
+                  <head>For biting of a Serpent or venomons Creature.</head>
+                  <p>Drink the Juice of Plantane, and ſtamp that and Celandine together, each like quantity; temper them with Urine (the ſtaler the better) and apply to the Sore; 'twill aſſwage the Swelling, and draw out the Venom. Alſo anoint the place with the Oil of Shell-ſnails, being prick'd with a Needle, and lay thereto a Snail unprick'd.</p>
+                  <pb facs="tcp:58366:37"/>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
